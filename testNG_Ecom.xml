@@ -7,7 +7,11 @@
       <class name="com.guru.commons.testscripts.TC001_MobileListTest" />
       </classes>
   </test> 
-    
+ <test name="AddCart">
+ <classes>
+ <class name="com.guru.commons.testscripts.TC002_AddCartOptionTest"></class>
+ </classes>
+ </test>   
   
 </suite> <!-- Suite -->
   

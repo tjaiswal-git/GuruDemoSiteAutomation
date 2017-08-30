@@ -106,7 +106,7 @@ public class TC001_MobileListTest extends com.guru.Ecommerce.Automation.testbase
    @AfterTest
    public void close()
    {
-	   driver.quit();
+	   driver.close();
    }
    {
 	   

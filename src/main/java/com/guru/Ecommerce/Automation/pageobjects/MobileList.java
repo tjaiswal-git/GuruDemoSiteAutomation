@@ -12,7 +12,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.*;
 
-public class MobileList 
+import com.gargoylesoftware.htmlunit.ElementNotFoundException;
+import com.guru.Ecommerce.Automation.testbase.TestBase;
+
+public class MobileList extends TestBase
 {
 	public static final Logger logger=Logger.getLogger(MobileList.class.getName());
 	public WebDriver driver;
@@ -41,6 +44,24 @@ public class MobileList
 	
 	@FindBy(xpath="//a[@title='Sony Xperia']")
 	WebElement xperiaLink; 
+	
+	@FindBy(xpath="//input[@class='input-text qty']")
+	WebElement xperiaQty;
+	
+	@FindBy(xpath="//button[@title='Update']")
+	WebElement updateCart;
+	
+	@FindBy(xpath="//button[@title='Add to Cart']")
+	WebElement addtoCart;
+	
+	@FindBy(xpath="//span[text()='Some of the products cannot be ordered in requested quantity.']")
+	WebElement invaildPrdQtyAdded;
+	
+	@FindBy(id="empty_cart_button")
+	WebElement emptyCart;
+	
+	@FindBy(xpath="//h1[text()='Shopping Cart is Empty']")
+	WebElement shoppingCartVerifyText;
 	
 	public String getHomePageTitle()
 	{
@@ -142,4 +163,47 @@ public class MobileList
 		  return prdDcost;
 		  
 	  }
+	  
+	  public String addXperiaprdinCart()
+	  {
+		  String spanInvaildMsg=null;
+		  try
+		  {
+		  mobileBtn.click();
+		  logger.info("mobile btn has clicked.."+mobileBtn.toString());
+		  sleepTime(2);
+		  xperiaLink.click();
+		  logger.info("xperia btn link has cliked.. "+xperiaLink.toString());
+		  addtoCart.click();
+		  logger.info("item is added "+addtoCart.toString());
+		  xperiaQty.clear();
+		  xperiaQty.sendKeys("1000");
+		  sleepTime(1);
+		  logger.info("xperiaQty is puted.. "+xperiaQty.toString());
+		  sleepTime(1);
+		  updateCart.click(); 
+		  logger.info("cart is updated .. "+updateCart.toString());
+		  spanInvaildMsg=invaildPrdQtyAdded.getText();
+		  }
+		  catch(ElementNotFoundException e)
+		  {
+			  logger.info("Exception is generated "+e.getMessage());
+			  e.printStackTrace();
+		  }
+		  
+		return spanInvaildMsg;
+		  
+		  
+	  }
+	  
+	  public String emptyCart()
+	  {   
+		  sleepTime(1);
+		  emptyCart.click();
+		  logger.info("cart empty link is clicked "+emptyCart.toString());
+		  String shoppingText=shoppingCartVerifyText.getText();
+		  logger.info("shopping empty cart is verified "+shoppingText);
+		  return shoppingText;
+	  }
+	  
 }

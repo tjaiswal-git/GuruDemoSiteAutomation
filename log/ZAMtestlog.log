@@ -8,3 +8,49 @@
 2017-08-30 22:08:02,852 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (3e5c5d56-f516-40cd-b1ec-24a27b4d7c57)] -> xpath: //select[@title='Sort By']]
 2017-08-30 22:08:08,556 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn is clicked. [[FirefoxDriver: firefox on WINDOWS (3e5c5d56-f516-40cd-b1ec-24a27b4d7c57)] -> xpath: //a[text()='Mobile']]
 2017-08-30 22:08:09,022 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperia btn is clilked..
+2017-08-31 00:56:30,053 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-08-31 00:56:30,212 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-31 00:56:30,247 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-08-31 00:56:30,429 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-31 00:56:33,327 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (11c4df79-4e74-4b47-811c-4b181b2c58a2)] -> xpath: //a[text()='Mobile']]
+2017-08-31 00:56:33,387 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-31 00:56:35,556 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (11c4df79-4e74-4b47-811c-4b181b2c58a2)] -> xpath: //select[@title='Sort By']]
+2017-08-31 00:56:40,253 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (11c4df79-4e74-4b47-811c-4b181b2c58a2)] -> xpath: //select[@title='Sort By']]
+2017-08-31 00:56:44,826 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn is clicked. [[FirefoxDriver: firefox on WINDOWS (11c4df79-4e74-4b47-811c-4b181b2c58a2)] -> xpath: //a[text()='Mobile']]
+2017-08-31 00:56:45,229 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperia btn is clilked..
+2017-08-31 00:56:58,840 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Firefox has launching...
+2017-08-31 00:57:02,614 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-08-31 00:57:02,797 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-31 00:57:02,820 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-08-31 00:57:02,822 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - ============Starting Test==========================
+2017-08-31 00:57:05,294 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - mobile btn has clicked..[[FirefoxDriver: firefox on WINDOWS (47587f23-41a7-43a8-8b80-a1fd2b9fb2f0)] -> xpath: //a[text()='Mobile']]
+2017-08-31 00:57:42,075 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperia btn link has cliked.. Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sony Xperia']'
+2017-08-31 00:58:15,899 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - item is added Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Add to Cart']'
+2017-08-31 00:58:45,960 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - ============Starting Test==========================
+2017-08-31 00:59:18,369 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - cart empty link is clicked Proxy element for: DefaultElementLocator 'By.id: empty_cart_button'
+2017-08-31 00:59:18,440 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - shopping empty cart is verified SHOPPING CART IS EMPTY
+2017-08-31 01:04:17,808 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-08-31 01:04:17,903 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-31 01:04:18,016 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-08-31 01:04:18,180 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-31 01:04:20,974 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (574661cd-e36b-4d73-8e85-1b85b53ec474)] -> xpath: //a[text()='Mobile']]
+2017-08-31 01:04:21,030 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-31 01:04:24,659 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (574661cd-e36b-4d73-8e85-1b85b53ec474)] -> xpath: //select[@title='Sort By']]
+2017-08-31 01:04:29,194 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (574661cd-e36b-4d73-8e85-1b85b53ec474)] -> xpath: //select[@title='Sort By']]
+2017-08-31 01:04:33,761 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn is clicked. [[FirefoxDriver: firefox on WINDOWS (574661cd-e36b-4d73-8e85-1b85b53ec474)] -> xpath: //a[text()='Mobile']]
+2017-08-31 01:04:34,159 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperia btn is clilked..
+2017-08-31 01:04:47,997 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Firefox has launching...
+2017-08-31 01:04:51,797 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-08-31 01:04:51,886 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-31 01:04:51,915 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-08-31 01:04:51,917 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - ============Starting Test==========================
+2017-08-31 01:04:54,636 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - mobile btn has clicked..[[FirefoxDriver: firefox on WINDOWS (e924deac-8237-426a-9fe1-b27eb535e152)] -> xpath: //a[text()='Mobile']]
+2017-08-31 01:05:31,179 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperia btn link has cliked.. Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sony Xperia']'
+2017-08-31 01:06:03,847 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - item is added Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Add to Cart']'
+2017-08-31 01:06:05,125 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperiaQty is puted.. [[FirefoxDriver: firefox on WINDOWS (e924deac-8237-426a-9fe1-b27eb535e152)] -> xpath: //input[@class='input-text qty']]
+2017-08-31 01:06:08,545 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - cart is updated .. [[FirefoxDriver: firefox on WINDOWS (e924deac-8237-426a-9fe1-b27eb535e152)] -> xpath: //button[@title='Update']]
+2017-08-31 01:06:08,705 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - ============Finished Test==========================
+2017-08-31 01:06:08,708 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - ============Starting Test==========================
+2017-08-31 01:06:41,845 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - cart empty link is clicked Proxy element for: DefaultElementLocator 'By.id: empty_cart_button'
+2017-08-31 01:06:41,904 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - shopping empty cart is verified SHOPPING CART IS EMPTY
+2017-08-31 01:06:41,904 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - ============Finished Test==========================

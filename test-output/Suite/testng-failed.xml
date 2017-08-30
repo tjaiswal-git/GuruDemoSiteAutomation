@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]">
-  <test name="Test(failed)">
+  <test name="AddCart(failed)">
     <classes>
+      <class name="com.guru.commons.testscripts.TC002_AddCartOptionTest">
+        <methods>
+          <include name="verifyPrdEmptyInCart"/>
+          <include name="setUp"/>
+          <include name="verifyMaxPrdAvailableInStore"/>
+        </methods>
+      </class> <!-- com.guru.commons.testscripts.TC002_AddCartOptionTest -->
       <class name="com.guru.commons.testscripts.TC001_MobileListTest">
         <methods>
-          <include name="verifyPrdCostListToDetailsPage"/>
-          <include name="verifyPrdSortInPrice"/>
           <include name="setUp"/>
-          <include name="verifyPrdInSortOrder"/>
-          <include name="verifyTitle"/>
-          <include name="verifyMobilePageTitle"/>
+          <include name="close"/>
         </methods>
       </class> <!-- com.guru.commons.testscripts.TC001_MobileListTest -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- AddCart(failed) -->
 </suite> <!-- Failed suite [Suite] -->
