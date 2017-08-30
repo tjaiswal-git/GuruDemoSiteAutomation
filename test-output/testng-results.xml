@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyTitle_30_08_2017_10_07_52.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyTitle_30_08_2017_10_07_52.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyMobilePageTitle_30_08_2017_10_07_56.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyMobilePageTitle_30_08_2017_10_07_56.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyPrdInSortOrder_30_08_2017_10_08_00.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyPrdInSortOrder_30_08_2017_10_08_00.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyPrdSortInPrice_30_08_2017_10_08_05.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyPrdSortInPrice_30_08_2017_10_08_05.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\xperiaPrdCost_30_08_2017_10_08_08.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\xperiaPrdCost_30_08_2017_10_08_08.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\afterDetailsXperiaCostPage_30_08_2017_10_08_13.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\afterDetailsXperiaCostPage_30_08_2017_10_08_13.png' height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41897" started-at="2017-08-30T16:37:32Z" finished-at="2017-08-30T16:38:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41897" started-at="2017-08-30T16:37:32Z" finished-at="2017-08-30T16:38:14Z">
+      <class name="com.guru.commons.testscripts.TC001_MobileListTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru.commons.testscripts.TC001_MobileListTest@42e26948]" name="setUp" is-config="true" duration-ms="19820" started-at="2017-08-30T22:07:32Z" finished-at="2017-08-30T22:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.guru.commons.testscripts.TC001_MobileListTest@42e26948]" name="verifyTitle" duration-ms="463" started-at="2017-08-30T22:07:52Z" finished-at="2017-08-30T22:07:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyTitle_30_08_2017_10_07_52.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyTitle_30_08_2017_10_07_52.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="verifyMobilePageTitle()[pri:0, instance:com.guru.commons.testscripts.TC001_MobileListTest@42e26948]" name="verifyMobilePageTitle" duration-ms="3817" started-at="2017-08-30T22:07:53Z" finished-at="2017-08-30T22:07:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyMobilePageTitle_30_08_2017_10_07_56.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyMobilePageTitle_30_08_2017_10_07_56.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMobilePageTitle -->
+        <test-method status="PASS" signature="verifyPrdInSortOrder()[pri:0, instance:com.guru.commons.testscripts.TC001_MobileListTest@42e26948]" name="verifyPrdInSortOrder" duration-ms="4085" started-at="2017-08-30T22:07:56Z" finished-at="2017-08-30T22:08:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyPrdInSortOrder_30_08_2017_10_08_00.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyPrdInSortOrder_30_08_2017_10_08_00.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPrdInSortOrder -->
+        <test-method status="PASS" signature="verifyPrdSortInPrice()[pri:0, instance:com.guru.commons.testscripts.TC001_MobileListTest@42e26948]" name="verifyPrdSortInPrice" duration-ms="4211" started-at="2017-08-30T22:08:01Z" finished-at="2017-08-30T22:08:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyPrdSortInPrice_30_08_2017_10_08_05.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\verifyPrdSortInPrice_30_08_2017_10_08_05.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPrdSortInPrice -->
+        <test-method status="PASS" signature="verifyPrdCostListToDetailsPage()[pri:0, instance:com.guru.commons.testscripts.TC001_MobileListTest@42e26948]" name="verifyPrdCostListToDetailsPage" duration-ms="8306" started-at="2017-08-30T22:08:05Z" finished-at="2017-08-30T22:08:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\xperiaPrdCost_30_08_2017_10_08_08.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\xperiaPrdCost_30_08_2017_10_08_08.png' height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\afterDetailsXperiaCostPage_30_08_2017_10_08_13.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\afterDetailsXperiaCostPage_30_08_2017_10_08_13.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPrdCostListToDetailsPage -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.guru.commons.testscripts.TC001_MobileListTest@42e26948]" name="close" is-config="true" duration-ms="1173" started-at="2017-08-30T22:08:13Z" finished-at="2017-08-30T22:08:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.guru.commons.testscripts.TC001_MobileListTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

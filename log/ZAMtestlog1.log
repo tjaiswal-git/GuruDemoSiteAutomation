@@ -1,0 +1,10 @@
+2017-08-30 22:07:52,506 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-30 22:07:52,666 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-30 22:07:52,696 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-30 22:07:52,876 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-30 22:07:56,690 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (3e5c5d56-f516-40cd-b1ec-24a27b4d7c57)] -> xpath: //a[text()='Mobile']]
+2017-08-30 22:07:56,751 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - Mobile btn text is send MOBILE
+2017-08-30 22:07:58,665 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - selection tag is select [[FirefoxDriver: firefox on WINDOWS (3e5c5d56-f516-40cd-b1ec-24a27b4d7c57)] -> xpath: //select[@title='Sort By']]
+2017-08-30 22:08:02,852 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - selection tag is select [[FirefoxDriver: firefox on WINDOWS (3e5c5d56-f516-40cd-b1ec-24a27b4d7c57)] -> xpath: //select[@title='Sort By']]
+2017-08-30 22:08:08,556 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - Mobile btn is clicked. [[FirefoxDriver: firefox on WINDOWS (3e5c5d56-f516-40cd-b1ec-24a27b4d7c57)] -> xpath: //a[text()='Mobile']]
+2017-08-30 22:08:09,022 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - xperia btn is clilked..
