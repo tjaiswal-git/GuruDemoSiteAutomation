@@ -54,3 +54,98 @@
 2017-08-31 01:06:41,845 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - cart empty link is clicked Proxy element for: DefaultElementLocator 'By.id: empty_cart_button'
 2017-08-31 01:06:41,904 [main] INFO com.guru.Ecommerce.Automation.pageobjects.MobileList - shopping empty cart is verified SHOPPING CART IS EMPTY
 2017-08-31 01:06:41,904 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - ============Finished Test==========================
+2017-08-31 22:35:46,730 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 22:35:46,930 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 22:35:46,962 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 22:35:47,369 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 22:35:52,156 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (f3698e7b-8f9c-439f-bcbc-01cd7e56ff78)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 22:35:55,492 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (f3698e7b-8f9c-439f-bcbc-01cd7e56ff78)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 22:35:56,952 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (f3698e7b-8f9c-439f-bcbc-01cd7e56ff78)] -> xpath: //button[@title='Compare']]
+2017-08-31 22:46:55,730 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 22:46:55,808 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 22:46:55,834 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 22:46:56,101 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 22:47:00,661 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (95f78e29-dfaf-4aba-9c76-178dba50d154)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 22:47:04,256 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (95f78e29-dfaf-4aba-9c76-178dba50d154)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 22:47:05,960 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (95f78e29-dfaf-4aba-9c76-178dba50d154)] -> xpath: //button[@title='Compare']]
+2017-08-31 22:48:16,065 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 22:48:16,150 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 22:48:16,179 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 22:48:16,426 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 22:48:20,565 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (e80445f4-2888-4819-9098-8966a9ea73eb)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 22:48:24,064 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (e80445f4-2888-4819-9098-8966a9ea73eb)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 22:48:25,446 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (e80445f4-2888-4819-9098-8966a9ea73eb)] -> xpath: //button[@title='Compare']]
+2017-08-31 22:51:37,811 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 22:51:37,893 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 22:51:37,917 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 22:51:38,300 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 22:51:42,927 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (72105b9c-c8d4-4a07-b6cc-ae81ca49f9cd)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 22:51:46,333 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (72105b9c-c8d4-4a07-b6cc-ae81ca49f9cd)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 22:51:47,713 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (72105b9c-c8d4-4a07-b6cc-ae81ca49f9cd)] -> xpath: //button[@title='Compare']]
+2017-08-31 22:58:37,457 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 22:58:37,539 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 22:58:37,564 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 22:58:37,940 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 22:58:42,931 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (03916429-bcf0-480a-ba3f-fd57850334b2)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 22:58:48,047 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (03916429-bcf0-480a-ba3f-fd57850334b2)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 22:58:49,473 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (03916429-bcf0-480a-ba3f-fd57850334b2)] -> xpath: //button[@title='Compare']]
+2017-08-31 23:01:39,402 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:01:39,482 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:01:39,507 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:01:39,754 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:02:21,856 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:02:21,942 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:02:21,966 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:02:22,217 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:02:26,830 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (6b40e587-3520-47f5-8a69-b1acf7180ab3)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 23:02:30,445 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (6b40e587-3520-47f5-8a69-b1acf7180ab3)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 23:02:31,834 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (6b40e587-3520-47f5-8a69-b1acf7180ab3)] -> xpath: //button[@title='Compare']]
+2017-08-31 23:06:04,781 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:06:04,861 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:06:04,888 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:06:05,134 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:06:09,836 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (e2bdebd6-1963-48c7-baf6-8824efba7402)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 23:06:13,642 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (e2bdebd6-1963-48c7-baf6-8824efba7402)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 23:06:15,026 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (e2bdebd6-1963-48c7-baf6-8824efba7402)] -> xpath: //button[@title='Compare']]
+2017-08-31 23:09:59,006 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:09:59,091 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:09:59,112 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:09:59,363 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:10:03,350 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (643abc4b-dc85-4e1f-81f2-e61d1fd039e9)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 23:10:07,149 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (643abc4b-dc85-4e1f-81f2-e61d1fd039e9)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 23:10:08,539 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (643abc4b-dc85-4e1f-81f2-e61d1fd039e9)] -> xpath: //button[@title='Compare']]
+2017-08-31 23:12:29,378 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:12:29,462 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:12:29,716 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:12:30,047 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:12:34,347 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (d06013b2-3940-4ed0-9398-109c5b8805fe)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 23:12:38,140 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (d06013b2-3940-4ed0-9398-109c5b8805fe)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 23:12:39,546 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (d06013b2-3940-4ed0-9398-109c5b8805fe)] -> xpath: //button[@title='Compare']]
+2017-08-31 23:15:10,015 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:15:10,288 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:15:10,310 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:15:10,561 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:15:15,205 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (0b670cf3-159d-4dae-8bc0-bb4efa03a9cf)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 23:15:18,473 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (0b670cf3-159d-4dae-8bc0-bb4efa03a9cf)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 23:15:19,847 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (0b670cf3-159d-4dae-8bc0-bb4efa03a9cf)] -> xpath: //button[@title='Compare']]
+2017-08-31 23:17:49,744 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:17:50,096 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:17:50,131 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:17:50,706 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:17:55,052 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (b49a0231-0055-41f3-885d-187d5dc76125)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 23:17:58,668 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (b49a0231-0055-41f3-885d-187d5dc76125)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 23:18:00,090 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (b49a0231-0055-41f3-885d-187d5dc76125)] -> xpath: //button[@title='Compare']]
+2017-08-31 23:21:08,774 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:21:08,860 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:21:08,882 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:21:09,213 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:21:13,145 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (cfcf8fea-5e20-44ac-9547-c4262617e0f3)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 23:21:17,139 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (cfcf8fea-5e20-44ac-9547-c4262617e0f3)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 23:21:18,531 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (cfcf8fea-5e20-44ac-9547-c4262617e0f3)] -> xpath: //button[@title='Compare']]
+2017-08-31 23:23:52,914 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-08-31 23:23:53,005 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-08-31 23:23:53,030 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-08-31 23:23:53,586 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - mobile btn is clicked..
+2017-08-31 23:23:57,549 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - samsung prd is added to compare [[FirefoxDriver: firefox on WINDOWS (7ae176b8-659f-4461-b48d-45ca314ea45b)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[1]/div/div[2]/ul/li[2]/a]
+2017-08-31 23:24:01,515 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - sony prd is added to compare [[FirefoxDriver: firefox on WINDOWS (7ae176b8-659f-4461-b48d-45ca314ea45b)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/div[1]/div[3]/ul/li[2]/div/div[3]/ul/li[2]/a]
+2017-08-31 23:24:03,198 [main] INFO com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList - compare btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (7ae176b8-659f-4461-b48d-45ca314ea45b)] -> xpath: //button[@title='Compare']]

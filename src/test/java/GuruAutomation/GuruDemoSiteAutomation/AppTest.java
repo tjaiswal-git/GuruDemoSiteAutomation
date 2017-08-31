@@ -36,3 +36,25 @@ public class AppTest
         assertTrue( true );
     }
 }
+
+
+/*
+ *  WebDriver popup = null;
+    String popwin = "";
+    boolean present;
+
+    try {
+
+        System.out.println(driver.getCurrentUrl());
+
+        for (String winHandle : driver.getWindowHandles()) {
+            System.out.println("WinHandle : " + winHandle);
+            driver.switchTo().window(winHandle);
+            Actions action = new Actions(popup);
+            action.moveToElement(popup.findElement(by.id("idContinue"))).sendKeys(Keys.ENTER).build().perform();
+            break; 
+        }
+ * 
+ * 
+ * 
+ */

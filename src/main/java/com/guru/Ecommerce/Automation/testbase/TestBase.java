@@ -182,5 +182,11 @@ public class TestBase
 		{
 		logger.info("Exception is found when capturing Image "+e.getMessage());	
 		}
-	}}
+	}
+     public void tearDown()
+     {
+    	 driver.close();
+     }
+
+}
 	
