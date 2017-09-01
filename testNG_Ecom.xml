@@ -13,6 +13,12 @@
 			<class name="com.guru.commons.testscripts.TC003_ComparePrdTest" />
 		</classes>
 	</test>
-
+   
+   <test name="RegistraionPage">
+       <classes>
+          <class name="com.guru.commons.testscripts.TC004_RegistrationPageTest"/> 
+       </classes>
+   </test>
+   
 </suite> <!-- Suite -->
   

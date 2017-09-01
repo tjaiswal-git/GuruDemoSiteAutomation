@@ -23,7 +23,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -37,7 +37,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Default_suite">
-              <span class="suite-name border-failed">Default suite</span>
+              <span class="suite-name border-passed">Default suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -48,7 +48,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
-                    <span>C:\Users\tjaiswal\AppData\Local\Temp\testng-eclipse-1552468913\testng-customsuite.xml</span>
+                    <span>C:\Users\tjaiswal\AppData\Local\Temp\testng-eclipse--1064052709\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -90,21 +90,26 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Default_suite" class="hide-methods failed suite-Default_suite"> (hide)</a> <!-- hide-methods failed suite-Default_suite -->
-                      <a href="#" panel-name="suite-Default_suite" class="show-methods failed suite-Default_suite"> (show)</a> <!-- show-methods failed suite-Default_suite -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
                     </span>
-                    <div class="method-list-content failed suite-Default_suite">
+                    <div class="method-list-content passed suite-Default_suite">
                       <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.guru.commons.testscripts.TC003_ComparePrdTest" hash-for-method="verifycomparePrd">verifycomparePrd</a> <!-- method navigator-link -->
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.guru.commons.testscripts.TC004_RegistrationPageTest" hash-for-method="verifyRegistration">verifyRegistration</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-Default_suite -->
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.guru.commons.testscripts.TC004_RegistrationPageTest" hash-for-method="verifyWishListAdded">verifyWishListAdded</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -116,141 +121,32 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Default_suite" class="panel Default_suite">
-          <div class="suite-Default_suite-class-failed">
+          <div class="suite-Default_suite-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.guru.commons.testscripts.TC003_ComparePrdTest</span>
+              <img src="passed.png"/>
+              <span class="class-name">com.guru.commons.testscripts.TC004_RegistrationPageTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="verifycomparePrd">
-                  </a> <!-- verifycomparePrd -->
-                  <span class="method-name">verifycomparePrd</span>
-                  <div class="stack-trace"><b>"org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
-Command duration or timeout: 21 milliseconds
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy6.getText(Unknown Source)
-	at com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList.ComparePrdWithName(ComparePrdInList.java:74)
-	at com.guru.commons.testscripts.TC003_ComparePrdTest.verifycomparePrd(TC003_ComparePrdTest.java:26)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-Caused by: org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
-Build info: version: &apos;3.1.0&apos;, revision: &apos;b94c902&apos;, time: &apos;2017-02-16 12:21:31 -0800&apos;
-System info: host: &apos;TJAISWAL-VAIO&apos;, ip: &apos;192.168.43.60&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_131&apos;
-Driver info: driver.version: unknown
-	at &lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12798)
-	at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10554)
-	at &lt;anonymous class&gt;.Resource.prototype.handle(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10701)
-	at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10648)
-	at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:12585)
-	at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2054)
-	at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2387)
-	at &lt;anonymous class&gt;.Connection.prototype.process(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1223)
-	at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1677)
-	at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1525)
-	at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1393)
-<br/> org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
-Command duration or timeout: 21 milliseconds
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy6.getText(Unknown Source)
-	at com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList.ComparePrdWithName(ComparePrdInList.java:74)
-	at com.guru.commons.testscripts.TC003_ComparePrdTest.verifycomparePrd(TC003_ComparePrdTest.java:26)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-Caused by: org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
-Build info: version: &apos;3.1.0&apos;, revision: &apos;b94c902&apos;, time: &apos;2017-02-16 12:21:31 -0800&apos;
-System info: host: &apos;TJAISWAL-VAIO&apos;, ip: &apos;192.168.43.60&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_131&apos;
-Driver info: driver.version: unknown
-	at &lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12798)
-	at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10554)
-	at &lt;anonymous class&gt;.Resource.prototype.handle(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10701)
-	at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10648)
-	at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:12585)
-	at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2054)
-	at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2387)
-	at &lt;anonymous class&gt;.Connection.prototype.process(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1223)
-	at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1677)
-	at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1525)
-	at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1393)
-"</b><br>sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br>sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)<br>sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)<br>java.lang.reflect.Constructor.newInstance(Unknown Source)<br>org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)<br>org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)<br>org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)<br>org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)<br>org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)<br>org.openqa.selenium.By$ByXPath.findElement(By.java:361)<br>org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)<br>org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)<br>org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)<br>com.sun.proxy.$Proxy6.getText(Unknown Source)<br>com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList.ComparePrdWithName(ComparePrdInList.java:74)<br>com.guru.commons.testscripts.TC003_ComparePrdTest.verifycomparePrd(TC003_ComparePrdTest.java:26)<br>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br>sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)<br>sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)<br>java.lang.reflect.Method.invoke(Unknown Source)<br>org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)<br>org.testng.internal.Invoker.invokeMethod(Invoker.java:714)<br>org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)<br>org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)<br>org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)<br>org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)<br>org.testng.TestRunner.privateRun(TestRunner.java:767)<br>org.testng.TestRunner.run(TestRunner.java:617)<br>org.testng.SuiteRunner.runTest(SuiteRunner.java:334)<br>org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)<br>org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)<br>org.testng.SuiteRunner.run(SuiteRunner.java:240)<br>org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br>org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br>org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)<br>org.testng.TestNG.runSuitesLocally(TestNG.java:1123)<br>org.testng.TestNG.run(TestNG.java:1031)<br>org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)<br>org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)<br>org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)<br>
-</div> <!-- stack-trace -->
+                  <a name="verifyRegistration">
+                  </a> <!-- verifyRegistration -->
+                  <span class="method-name">verifyRegistration</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyWishListAdded">
+                  </a> <!-- verifyWishListAdded -->
+                  <span class="method-name">verifyWishListAdded</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Default_suite-class-failed -->
+          </div> <!-- suite-Default_suite-class-passed -->
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\tjaiswal\AppData\Local\Temp\testng-eclipse-1552468913\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\tjaiswal\AppData\Local\Temp\testng-eclipse--1064052709\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -259,7 +155,7 @@ Driver info: driver.version: unknown
 &lt;suite name=&quot;Default suite&quot;&gt;
   &lt;test verbose=&quot;2&quot; name=&quot;Default test&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.guru.commons.testscripts.TC003_ComparePrdTest&quot;/&gt;
+      &lt;class name=&quot;com.guru.commons.testscripts.TC004_RegistrationPageTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Default test --&gt;
 &lt;/suite&gt; &lt;!-- Default suite --&gt;
@@ -299,16 +195,20 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'verifycomparePrd')
-data.setCell(0, 2, 'com.guru.commons.testscripts.TC003_ComparePrdTest')
-data.setCell(0, 3, 18249);
+data.setCell(0, 1, 'verifyRegistration')
+data.setCell(0, 2, 'com.guru.commons.testscripts.TC004_RegistrationPageTest')
+data.setCell(0, 3, 11877);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'verifyWishListAdded')
+data.setCell(1, 2, 'com.guru.commons.testscripts.TC004_RegistrationPageTest')
+data.setCell(1, 3, 11259);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 18 seconds</span>
+              <span class="suite-total-time">Total running time: 23 seconds</span>
               <div id="times-div-Default_suite">
               </div> <!-- times-div-Default_suite -->
             </div> <!-- times-div -->
@@ -319,20 +219,25 @@ return data;
             <span class="header-content">Reporter output for Default suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyWishListAdded</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\wishListStatus_02_09_2017_01_30_51.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\wishListStatus_02_09_2017_01_30_51.png' height='100' width='100'/></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyRegistration</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\registrationSuceess_02_09_2017_01_30_40.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\registrationSuceess_02_09_2017_01_30_40.png' height='100' width='100'/></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">1 ignored method</span>
+            <span class="header-content">0 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.guru.commons.testscripts.TC003_ComparePrdTest</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">verifyCloseWindowPopup</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="chronological-Default_suite" class="panel">
@@ -341,17 +246,23 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.guru.commons.testscripts.TC003_ComparePrdTest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.guru.commons.testscripts.TC004_RegistrationPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">setUp</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">verifycomparePrd</span>
-                <span class="method-start">14274 ms</span>
+                <span class="method-name">verifyRegistration</span>
+                <span class="method-start">15912 ms</span>
               </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyWishListAdded</span>
+                <span class="method-start">27790 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">39076 ms</span>
+              </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

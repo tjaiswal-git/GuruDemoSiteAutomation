@@ -67,6 +67,24 @@ public class TestBase
         return properties;
     }
     
+    public Properties getTestDataFromProp()
+    {
+        File file = new File(System.getProperty("user.dir")+"\\src\\test\\java\\com\\guru\\testdata\\testData.properties");
+        FileInputStream fileInputStream = null;
+        try {
+            fileInputStream = new FileInputStream(file);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        Properties properties = new Properties();
+        try {
+            properties.load(fileInputStream);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return properties;
+    }
+    
     
     public void selectBrowser(String browser)
 	

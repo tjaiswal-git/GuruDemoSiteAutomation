@@ -31,51 +31,22 @@ div.shootout {padding:2em;border:3px #4854A8 solid}
 <body>
 <table cellspacing="0" cellpadding="0" class="result">
 <tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
-<tr><td style="text-align:left;padding-right:2em">Default test</td><td class="numi">0</td><td class="numi">0</td><td class="numi">0</td><td class="numi_attn">1</td><td class="numi">32.5 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">Default test</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">39.1 seconds</td><td class="numi"></td><td class="numi"></td></tr>
 </table>
 <table cellspacing="0" cellpadding="0" class="passed" id="summary">
 <tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Start</th><th>Time<br/>(ms)</th></tr>
-<tr><th colspan="4">Default test &#8212; failed</th></tr>
-<tr class="failedodd"><td rowspan="1">com.guru.commons.testscripts.TC003_ComparePrdTest</td><td><a href="#m1"><b>verifycomparePrd</b>  </a></td><td class="numi">1</td><td>1504202033035</td><td class="numi">18249</td></tr>
+<tr><th colspan="4">Default test &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">com.guru.commons.testscripts.TC004_RegistrationPageTest</td><td><a href="#m1"><b>verifyRegistration</b>  </a></td><td class="numi">1</td><td>1504296028783</td><td class="numi">11877</td></tr><tr class="passedodd"><td><a href="#m2"><b>verifyWishListAdded</b>  </a></td><td class="numi">1</td><td>1504296040661</td><td class="numi">11259</td></tr>
 </table>
 <h1>Default test</h1>
-<h2 id="m1">com.guru.commons.testscripts.TC003_ComparePrdTest:verifycomparePrd</h2>
+<h2 id="m1">com.guru.commons.testscripts.TC004_RegistrationPageTest:verifyWishListAdded</h2>
 <div style="padding-left:3em">
-<p>Window not found. The browser window may have been closed.
-Command duration or timeout: 21 milliseconds</p>
-sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-<br/>at java.lang.reflect.Constructor.newInstance(Unknown Source)
-<br/>at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-<br/>at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
-<br/>at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
-<br/>at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-<br/>at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-<br/>at com.sun.proxy.$Proxy6.getText(Unknown Source)
-<br/>at com.guru.Ecommerce.Automation.pageobjects.ComparePrdInList.ComparePrdWithName(ComparePrdInList.java:74)
-<br/>at com.guru.commons.testscripts.TC003_ComparePrdTest.verifycomparePrd(TC003_ComparePrdTest.java:26)
-<br/>25 lines not shown
-<p>Caused by Window not found. The browser window may have been closed.
-Build info: version: &apos;3.1.0&apos;, revision: &apos;b94c902&apos;, time: &apos;2017-02-16 12:21:31 -0800&apos;
-System info: host: &apos;TJAISWAL-VAIO&apos;, ip: &apos;192.168.43.60&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_131&apos;
-Driver info: driver.version: unknown</p>
-&lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12798)
-<br/>at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10554)
-<br/>at &lt;anonymous class&gt;.Resource.prototype.handle(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10701)
-<br/>at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10648)
-<br/>at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:12585)
-<br/>at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2054)
-<br/>at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2387)
-<br/>at &lt;anonymous class&gt;.Connection.prototype.process(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1223)
-<br/>at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1677)
-<br/>at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1525)
-<br/>at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous5964525230306667501webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1393)
-<br/>1 lines not shown
+<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\wishListStatus_02_09_2017_01_30_51.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\wishListStatus_02_09_2017_01_30_51.png' height='100' width='100'/></a><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m2">com.guru.commons.testscripts.TC004_RegistrationPageTest:verifyRegistration</h2>
+<div style="padding-left:3em">
+<a href='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\registrationSuceess_02_09_2017_01_30_40.png'><img src='D:\automationDevlopment\GuruDemoSiteAutomation\src\main\java\com\guru\Ecommerce\Automation\Screenshot\registrationSuceess_02_09_2017_01_30_40.png' height='100' width='100'/></a><br/>
 </div>
 <p class="totop"><a href="#summary">back to summary</a></p>
 </body></html>
