@@ -3,6 +3,7 @@ package com.guru.Ecommerce.Automation.pageobjects;
 import java.util.Set;
 
 import org.apache.log4j.Logger;
+import org.apache.regexp.recompile;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -55,7 +56,11 @@ public class ComparePrdInList extends TestBase {
 		comparePrd.click();
 		logger.info("compare btn is clicked.. " + comparePrd.toString());
 		sleepTime(2);
-		Set<String> reciptHandle = driver.getWindowHandles();
+		String windowTitle= getCurrentWindowTitle();
+		String mainWindow = getMainWindowHandle();
+		String val=closeAllOterWindow(mainWindow);
+		
+/*		Set<String> reciptHandle = driver.getWindowHandles();
 		System.out.println("Recipt window handle " + reciptHandle);
 		String handle = null;
 		
@@ -68,14 +73,51 @@ public class ComparePrdInList extends TestBase {
 		// String handleWin=driver.getWindowHandle();
 		System.out.println("handle win " + handle);
 		driver.switchTo().window(handle);
-
-		String cmptext = comparePopUpWindowHeadertext.getText();
+*/
 		sleepTime(3);
 		// driver.switchTo().window(nameOrHandle)
-		windowClose.click();
-		return cmptext;
+		
+		return val;
 	}
 
+	public String getMainWindowHandle()
+	{
+		return driver.getWindowHandle();
+	}
+	
+	public String getCurrentWindowTitle()
+	{
+		return driver.getTitle();
+	}
+	
+	public String  closeAllOterWindow(String openWinHanlde)
+	{
+		String cmptext=null;
+		Set<String> allwindowHandle=driver.getWindowHandles();
+		for(String currentOpenWinHandle:allwindowHandle)
+		{
+			driver.switchTo().window(currentOpenWinHandle);
+				//windowClose.click();
+				
+			    cmptext = comparePopUpWindowHeadertext.getText();
+				System.out.println(cmptext);
+				
+			//	driver.close();
+			
+		}
+		sleepTime(2);
+		if(windowClose.isDisplayed())
+	    {
+	    	System.out.println("window close element is able to see "+windowClose.getText());
+	    windowClose.click();
+	    }
+		
+		for (String handle : driver.getWindowHandles()) {
+		    driver.switchTo().window(handle);
+		    }	    
+		return cmptext;
+	}
+	
 	public void WindowClosePop() {
 
 		windowClose.click();
