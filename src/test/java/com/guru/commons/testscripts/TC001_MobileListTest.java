@@ -26,17 +26,28 @@ public class TC001_MobileListTest extends
 		mobileList = new MobileList(driver);
 		String titleTxt = mobileList.getHomePageTitle();
 		String actualTxt = titleTxt.trim();
+		try{
 		getScreenShot("verifyTitle");
 		Assert.assertEquals(actualTxt, "THIS IS DEMO SITE FOR");
-	}
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		}
 
 	@Test(priority = 2)
 	public void verifyMobilePageTitle() {
 		mobileList = new MobileList(driver);
 		String actualmobilePageTitle = mobileList.mobilePageTitle();
+		try{
 		getScreenShot("verifyMobilePageTitle");
 		Assert.assertEquals(actualmobilePageTitle, "MOBILE");
-
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
 	}
 
 	@Test(priority = 3)
@@ -57,7 +68,13 @@ public class TC001_MobileListTest extends
 
 		}
 		// type=true;
+		try{
 		Assert.assertFalse(type);
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
 	}
 
 	@Test(priority = 4)
@@ -86,9 +103,14 @@ public class TC001_MobileListTest extends
 		String actulaCost = mobileList.xperiaPrdCost();
 		getScreenShot("xperiaPrdCost");
 		String expectedCost = mobileList.afterDetailsXperiaCostPage();
+		try{
 		getScreenShot("afterDetailsXperiaCostPage");
 		Assert.assertEquals(actulaCost, expectedCost);
-
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
 	}
 
 	@AfterTest

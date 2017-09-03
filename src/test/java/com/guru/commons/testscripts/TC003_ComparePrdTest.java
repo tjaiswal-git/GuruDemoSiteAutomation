@@ -24,8 +24,13 @@ public class TC003_ComparePrdTest extends TestBase {
 	public void verifycomparePrd() {
 		comparePrd = new ComparePrdInList(driver);
 		String cmpTex = comparePrd.ComparePrdWithName();
+		try{
 		org.testng.Assert.assertEquals(cmpTex, "COMPARE PRODUCTS");
-
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
 	}
 
 	@Test(priority = 2, enabled = false)
