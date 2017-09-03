@@ -2,23 +2,36 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 
-	<test name="Test">
+	<test name="MobileList">
+	
 		<classes>
 			<class name="com.guru.commons.testscripts.TC001_MobileListTest" />
 		</classes>
 	</test>
+	
 	<test name="AddCart">
+	
 		<classes>
 			<class name="com.guru.commons.testscripts.TC002_AddCartOptionTest" />
 			<class name="com.guru.commons.testscripts.TC003_ComparePrdTest" />
 		</classes>
+	
 	</test>
-   
-   <test name="RegistraionPage">
-       <classes>
-          <class name="com.guru.commons.testscripts.TC004_RegistrationPageTest"/> 
-       </classes>
-   </test>
-   
+
+	<test name="RegistraionPage">
+		
+		<classes>
+			<class name="com.guru.commons.testscripts.TC004_RegistrationPageTest" />
+		</classes>
+	
+	</test>
+
+	<test name="PurchaseProduct">
+		
+		<classes>
+			<class name="com.guru.commons.testscripts.TC005_PurchasePurducts" />
+		</classes>
+
+	</test>
 </suite> <!-- Suite -->
   
