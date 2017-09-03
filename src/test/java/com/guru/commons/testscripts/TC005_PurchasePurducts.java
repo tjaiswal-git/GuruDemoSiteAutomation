@@ -66,7 +66,7 @@ public class TC005_PurchasePurducts extends TestBase {
 		logger.info("========Starting Test verifyPlaceOrder()============= ");
 		purchasePrdThroughemail=new PurchasePrdThroughEmail(driver);
 		String Oderdetalils[]=purchasePrdThroughemail.placeOrder();
-		Assert.assertEquals(Oderdetalils[0], Oderdetalils[0].contains("10000"));
+		Assert.assertEquals(true, Oderdetalils[0].contains("10000"));
 		Assert.assertEquals(Oderdetalils[1], "Your order has been received.");
 		logger.info("========Finished Test verifyPlaceOrder()============= ");
 		

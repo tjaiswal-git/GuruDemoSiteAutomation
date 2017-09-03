@@ -143,7 +143,7 @@ public class PurchasePrdThroughEmail extends TestBase{
 	 
 	 sleepTime(2);
 	 billingTelephone.clear();
-	 billingTelephone.sendKeys(prop.getProperty("1234567"));
+	 billingTelephone.sendKeys("2545445");
 	 sleepTime(1);
 	 Billcontinue.click();
 	 
