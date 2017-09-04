@@ -1,3 +1,29 @@
+/*  Verify that you will be able to save previously placed order as a pdf file
+ *  
+ *  Note: This TestCase7b version is due to the below amended steps.
+ *  
+Test Steps:
+1. Go to http://live.guru99.com/
+2. Click on My Account link
+3. Login in application using previously created credential 
+4. Click on 'My Orders'
+5. Click on 'View Order'
+6. *** when steps 4 and 5 are executed, step 6 RECENT ORDERS was not displayed
+   Verify the previously created order is displayed in 'RECENT ORDERS' table and status is Pending
+7. Click on 'Print Order' link
+8. *** note: the Change ... link was not found. 
+   Click 'Change...' link and a popup will be opened as 'Select a destination' , select 'Save as PDF' link.
+9. *** unable to execute this step, due to issue with step 8 issue
+   Click on 'Save' button and save the file in some location.
+10. *** unable to execute this step, due to steps 8 and 9 issues.
+    Verify Order is saved as PDF
+    
+Expected results:
+1. Previously created order is displayed in 'RECENT ORDERS' table and status is Pending.
+2. Order is saved as PDF.
+
+
+*/
 package com.guru.commons.testscripts;
 
 import java.awt.AWTException;

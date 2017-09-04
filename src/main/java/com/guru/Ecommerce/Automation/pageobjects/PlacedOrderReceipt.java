@@ -51,6 +51,9 @@ public class PlacedOrderReceipt extends TestBase{
 	{     
 		 myacc.click();
 		 sleepTime(1);
+		  for (String handle : driver.getWindowHandles()) {
+		    	driver.switchTo().window(handle);
+		    	}
 		 logger.info("account link is clicked "+myacc.toString());
 		 eamilId.clear();
 		 eamilId.sendKeys(prop.getProperty("emailId"));
@@ -60,10 +63,15 @@ public class PlacedOrderReceipt extends TestBase{
 		 logger.info("pass is enterd "+pass.toString());
 		 loginUser.click();
 		 logger.info("login user is clicked "+loginUser.toString());
+		 
+		  for (String handle : driver.getWindowHandles()) {
+		    	driver.switchTo().window(handle);
+		    	}
 		 myOrder.click();
 		 logger.info("myoder link is clicked "+myOrder.toString());
 		 viewOrder.click();
 		 logger.info("viewOrder link is clicked "+viewOrder.toString());
+		  
 		 String pandingStatus=pendingStatus.getText();
 		 
 		 
@@ -72,7 +80,13 @@ public class PlacedOrderReceipt extends TestBase{
 	}
 	
 	public boolean placedOrderPdfDownloadStatus() throws AWTException
-	{
+      	{
+		
+		for (String handle : driver.getWindowHandles()) 
+		    {
+	    	driver.switchTo().window(handle);
+	    	}
+	
 		printOrder.click();
 		Robot robot=new Robot();
 		int[] execuate={KeyEvent.VK_T,KeyEvent.VK_K,KeyEvent.VK_J,KeyEvent.VK_DECIMAL,KeyEvent.VK_X,KeyEvent.VK_P,KeyEvent.VK_S};

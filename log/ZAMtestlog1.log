@@ -315,3 +315,256 @@
 2017-09-02 01:30:40,659 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - ========Finished test verifyRegistration=============
 2017-09-02 01:30:40,667 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - ========Starting test verifyWishListAdded=============
 2017-09-02 01:30:51,918 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - ========Finished test verifyWishListAdded=============
+2017-09-03 14:58:23,794 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 14:58:24,501 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 14:58:24,752 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 14:58:24,835 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 14:58:27,755 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (109cadce-8b1a-4716-842c-1f2c2072f28d)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 14:58:28,664 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (109cadce-8b1a-4716-842c-1f2c2072f28d)] -> id: email]
+2017-09-03 14:58:31,287 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (109cadce-8b1a-4716-842c-1f2c2072f28d)] -> id: pass]
+2017-09-03 14:59:04,320 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 14:59:34,591 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 15:00:02,375 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 15:02:36,635 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 15:02:36,895 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 15:02:37,051 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 15:02:37,068 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 15:02:39,025 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (10bcae75-f6c6-4354-a9f5-0f6413f1a3ce)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 15:02:39,234 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (10bcae75-f6c6-4354-a9f5-0f6413f1a3ce)] -> id: email]
+2017-09-03 15:02:39,787 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (10bcae75-f6c6-4354-a9f5-0f6413f1a3ce)] -> id: pass]
+2017-09-03 15:03:12,157 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 15:03:16,364 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (10bcae75-f6c6-4354-a9f5-0f6413f1a3ce)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 15:05:04,048 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 15:05:04,128 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 15:05:04,155 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 15:05:04,167 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 15:05:06,123 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (60032989-eece-418f-afa9-593d0f61fc13)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 15:05:06,799 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (60032989-eece-418f-afa9-593d0f61fc13)] -> id: email]
+2017-09-03 15:05:07,172 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (60032989-eece-418f-afa9-593d0f61fc13)] -> id: pass]
+2017-09-03 15:05:39,874 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 15:05:43,445 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (60032989-eece-418f-afa9-593d0f61fc13)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 15:07:47,505 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 15:07:47,595 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 15:07:47,619 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 15:07:47,630 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 15:07:49,588 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (6e019e3f-6742-4237-a764-392e7839a35c)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 15:07:49,923 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (6e019e3f-6742-4237-a764-392e7839a35c)] -> id: email]
+2017-09-03 15:07:50,188 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (6e019e3f-6742-4237-a764-392e7839a35c)] -> id: pass]
+2017-09-03 15:08:22,210 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 15:08:25,961 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (6e019e3f-6742-4237-a764-392e7839a35c)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 15:08:59,403 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - addcart is clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Add to Cart']'
+2017-09-03 15:09:32,089 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - checkout is proceed.. Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Proceed to Checkout']'
+2017-09-03 15:09:32,289 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship address is entered [[FirefoxDriver: firefox on WINDOWS (6e019e3f-6742-4237-a764-392e7839a35c)] -> id: billing:street1]
+2017-09-03 15:09:32,481 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship city is enterd [[FirefoxDriver: firefox on WINDOWS (6e019e3f-6742-4237-a764-392e7839a35c)] -> id: billing:city]
+2017-09-03 15:10:03,058 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 15:10:33,185 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 15:11:03,389 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPlaceOrder()============= 
+2017-09-03 15:17:32,126 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 15:17:32,227 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 15:17:32,416 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 15:17:32,438 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 15:17:34,679 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (75d12ac5-48e4-4655-a05a-3da516ed713f)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 15:17:35,045 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (75d12ac5-48e4-4655-a05a-3da516ed713f)] -> id: email]
+2017-09-03 15:17:35,714 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (75d12ac5-48e4-4655-a05a-3da516ed713f)] -> id: pass]
+2017-09-03 15:18:08,427 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 15:18:12,195 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (75d12ac5-48e4-4655-a05a-3da516ed713f)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 15:18:44,760 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - addcart is clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Add to Cart']'
+2017-09-03 15:19:17,216 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - checkout is proceed.. Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Proceed to Checkout']'
+2017-09-03 15:19:17,414 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship address is entered [[FirefoxDriver: firefox on WINDOWS (75d12ac5-48e4-4655-a05a-3da516ed713f)] -> id: billing:street1]
+2017-09-03 15:19:17,609 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship city is enterd [[FirefoxDriver: firefox on WINDOWS (75d12ac5-48e4-4655-a05a-3da516ed713f)] -> id: billing:city]
+2017-09-03 15:20:20,567 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 15:20:50,670 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 15:20:50,778 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPlaceOrder()============= 
+2017-09-03 15:22:41,572 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 15:22:41,652 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 15:22:41,772 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 15:22:41,790 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 15:22:43,971 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (ef728806-49be-4bdc-bd9d-53b5c66b6dfe)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 15:22:44,175 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (ef728806-49be-4bdc-bd9d-53b5c66b6dfe)] -> id: email]
+2017-09-03 15:22:44,546 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (ef728806-49be-4bdc-bd9d-53b5c66b6dfe)] -> id: pass]
+2017-09-03 15:23:16,656 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 15:23:19,969 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (ef728806-49be-4bdc-bd9d-53b5c66b6dfe)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 15:23:53,431 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - addcart is clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Add to Cart']'
+2017-09-03 15:24:26,100 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - checkout is proceed.. Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Proceed to Checkout']'
+2017-09-03 15:24:26,351 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship address is entered [[FirefoxDriver: firefox on WINDOWS (ef728806-49be-4bdc-bd9d-53b5c66b6dfe)] -> id: billing:street1]
+2017-09-03 15:24:26,544 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship city is enterd [[FirefoxDriver: firefox on WINDOWS (ef728806-49be-4bdc-bd9d-53b5c66b6dfe)] -> id: billing:city]
+2017-09-03 15:25:29,552 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 15:25:59,708 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 15:26:29,912 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPlaceOrder()============= 
+2017-09-03 15:28:54,900 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 15:28:54,986 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 15:28:55,014 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 15:28:55,026 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 15:28:56,862 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (f4ded2fb-5dd1-4d53-8fba-7da61edd9ca3)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 15:28:57,076 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (f4ded2fb-5dd1-4d53-8fba-7da61edd9ca3)] -> id: email]
+2017-09-03 15:28:57,413 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (f4ded2fb-5dd1-4d53-8fba-7da61edd9ca3)] -> id: pass]
+2017-09-03 15:29:29,822 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 15:29:33,586 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (f4ded2fb-5dd1-4d53-8fba-7da61edd9ca3)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 15:29:53,101 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 15:29:53,185 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 15:31:04,565 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 15:31:04,653 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 15:31:04,682 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 15:31:04,695 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 15:31:06,683 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (f7f2be99-fcd5-467f-80aa-a8783d3474ff)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 15:31:07,061 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (f7f2be99-fcd5-467f-80aa-a8783d3474ff)] -> id: email]
+2017-09-03 15:31:07,517 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (f7f2be99-fcd5-467f-80aa-a8783d3474ff)] -> id: pass]
+2017-09-03 15:31:40,228 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 15:31:43,910 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (f7f2be99-fcd5-467f-80aa-a8783d3474ff)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 15:32:16,342 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - addcart is clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Add to Cart']'
+2017-09-03 15:32:49,534 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - checkout is proceed.. Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Proceed to Checkout']'
+2017-09-03 15:32:49,730 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship address is entered [[FirefoxDriver: firefox on WINDOWS (f7f2be99-fcd5-467f-80aa-a8783d3474ff)] -> id: billing:street1]
+2017-09-03 15:32:49,922 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship city is enterd [[FirefoxDriver: firefox on WINDOWS (f7f2be99-fcd5-467f-80aa-a8783d3474ff)] -> id: billing:city]
+2017-09-03 15:33:53,015 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 15:33:59,408 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 15:34:00,429 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPlaceOrder()============= 
+2017-09-03 19:26:48,545 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 19:26:48,935 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 19:26:48,973 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 19:26:49,028 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 19:26:51,148 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (26fe17e3-b8eb-45a6-8c56-80e0fb34c127)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 19:26:51,382 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (26fe17e3-b8eb-45a6-8c56-80e0fb34c127)] -> id: email]
+2017-09-03 19:26:51,679 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (26fe17e3-b8eb-45a6-8c56-80e0fb34c127)] -> id: pass]
+2017-09-03 19:27:24,143 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 19:27:28,080 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (26fe17e3-b8eb-45a6-8c56-80e0fb34c127)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 19:27:32,758 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 19:27:32,819 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 19:27:34,478 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPlaceOrder()============= 
+2017-09-03 19:28:28,805 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 19:28:28,892 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 19:28:28,914 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 19:28:28,953 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 19:28:30,799 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (144e01ba-a9ec-43f5-99c5-a3b75a27232f)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 19:28:31,161 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (144e01ba-a9ec-43f5-99c5-a3b75a27232f)] -> id: email]
+2017-09-03 19:28:31,456 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (144e01ba-a9ec-43f5-99c5-a3b75a27232f)] -> id: pass]
+2017-09-03 19:29:03,748 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 19:29:07,434 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (144e01ba-a9ec-43f5-99c5-a3b75a27232f)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 19:29:41,071 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - addcart is clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Add to Cart']'
+2017-09-03 19:30:13,914 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - checkout is proceed.. Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Proceed to Checkout']'
+2017-09-03 19:30:14,111 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship address is entered [[FirefoxDriver: firefox on WINDOWS (144e01ba-a9ec-43f5-99c5-a3b75a27232f)] -> id: billing:street1]
+2017-09-03 19:30:14,311 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship city is enterd [[FirefoxDriver: firefox on WINDOWS (144e01ba-a9ec-43f5-99c5-a3b75a27232f)] -> id: billing:city]
+2017-09-03 19:31:17,759 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 19:31:47,818 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 19:32:17,988 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPlaceOrder()============= 
+2017-09-03 19:34:36,459 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 19:34:36,584 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 19:34:36,614 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 19:34:36,628 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPrdActualCost()============= 
+2017-09-03 19:34:38,374 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - account link is clicked [[FirefoxDriver: firefox on WINDOWS (50362a64-f675-4f6b-af5c-3a76f83df070)] -> xpath: .//*[@id='top']/body/div[1]/div/div[3]/div/div[4]/ul/li[1]/a]
+2017-09-03 19:34:38,588 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - email is is entered [[FirefoxDriver: firefox on WINDOWS (50362a64-f675-4f6b-af5c-3a76f83df070)] -> id: email]
+2017-09-03 19:34:38,844 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - pass is enterd [[FirefoxDriver: firefox on WINDOWS (50362a64-f675-4f6b-af5c-3a76f83df070)] -> id: pass]
+2017-09-03 19:35:11,125 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 19:35:14,975 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - wishList is clicked [[FirefoxDriver: firefox on WINDOWS (50362a64-f675-4f6b-af5c-3a76f83df070)] -> xpath: .//*[@id='top']/body/div[1]/div/div[2]/div/div[1]/div/div[2]/ul/li[8]/a]
+2017-09-03 19:35:48,719 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - addcart is clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Add to Cart']'
+2017-09-03 19:36:21,859 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - checkout is proceed.. Proxy element for: DefaultElementLocator 'By.xpath: //button[@title='Proceed to Checkout']'
+2017-09-03 19:36:22,071 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship address is entered [[FirefoxDriver: firefox on WINDOWS (50362a64-f675-4f6b-af5c-3a76f83df070)] -> id: billing:street1]
+2017-09-03 19:36:22,350 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - ship city is enterd [[FirefoxDriver: firefox on WINDOWS (50362a64-f675-4f6b-af5c-3a76f83df070)] -> id: billing:city]
+2017-09-03 19:36:25,149 [main] INFO com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail - county is selected org.openqa.selenium.support.ui.Select@38aa816f
+2017-09-03 19:36:58,896 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyAddress()============= 
+2017-09-03 19:36:59,143 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Finished Test verifyAddress()============= 
+2017-09-03 19:36:59,147 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyConfirmOrder()============= 
+2017-09-03 19:37:31,781 [main] INFO com.guru.commons.testscripts.TC005_PurchasePurducts - ========Starting Test verifyPlaceOrder()============= 
+2017-09-03 23:48:46,171 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 23:48:46,667 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 23:48:46,710 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 23:52:50,685 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 23:52:50,766 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 23:52:50,948 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 23:52:52,909 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (05f09a8d-befa-42f5-b942-9d053875bcac)] -> link text: MY ACCOUNT]
+2017-09-03 23:52:53,364 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (05f09a8d-befa-42f5-b942-9d053875bcac)] -> id: email]
+2017-09-03 23:52:53,549 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (05f09a8d-befa-42f5-b942-9d053875bcac)] -> id: pass]
+2017-09-03 23:53:26,341 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 23:53:28,144 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (05f09a8d-befa-42f5-b942-9d053875bcac)] -> link text: MY ORDERS]
+2017-09-03 23:53:59,187 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
+2017-09-03 23:57:49,710 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-03 23:57:49,795 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-03 23:57:49,825 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-03 23:57:52,132 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (8b1bf5d7-28fb-4b2f-a2ab-4308dea7b405)] -> link text: MY ACCOUNT]
+2017-09-03 23:57:52,507 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (8b1bf5d7-28fb-4b2f-a2ab-4308dea7b405)] -> id: email]
+2017-09-03 23:57:53,245 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (8b1bf5d7-28fb-4b2f-a2ab-4308dea7b405)] -> id: pass]
+2017-09-03 23:58:25,765 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-03 23:58:27,574 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (8b1bf5d7-28fb-4b2f-a2ab-4308dea7b405)] -> link text: MY ORDERS]
+2017-09-03 23:58:59,178 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
+2017-09-04 09:13:23,578 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 09:13:23,854 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 09:13:23,891 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 09:13:35,430 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Firefox has launching...
+2017-09-04 09:13:48,377 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 09:13:48,480 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 09:13:48,503 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 09:13:59,178 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Firefox has launching...
+2017-09-04 09:14:25,164 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 09:14:25,304 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 09:14:25,332 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 09:14:37,530 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Firefox has launching...
+2017-09-04 09:15:00,108 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 09:15:00,217 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 09:15:00,245 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 09:15:13,030 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Firefox has launching...
+2017-09-04 09:16:05,032 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 09:16:05,156 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 09:16:05,185 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 09:16:17,691 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Firefox has launching...
+2017-09-04 20:14:00,097 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 20:14:00,392 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 20:14:00,418 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 20:14:02,391 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (89b5f6fb-8fd5-4866-91bf-efaaace37f12)] -> link text: MY ACCOUNT]
+2017-09-04 20:14:02,646 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (89b5f6fb-8fd5-4866-91bf-efaaace37f12)] -> id: email]
+2017-09-04 20:14:02,910 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (89b5f6fb-8fd5-4866-91bf-efaaace37f12)] -> id: pass]
+2017-09-04 20:14:34,899 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-04 20:14:36,804 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (89b5f6fb-8fd5-4866-91bf-efaaace37f12)] -> link text: MY ORDERS]
+2017-09-04 20:15:07,961 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
+2017-09-04 20:18:15,945 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 20:18:16,029 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 20:18:16,059 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 20:18:18,247 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (4d04d4a6-dcbb-4c0b-9a82-4a0e8d2237f4)] -> link text: MY ACCOUNT]
+2017-09-04 20:18:18,453 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (4d04d4a6-dcbb-4c0b-9a82-4a0e8d2237f4)] -> id: email]
+2017-09-04 20:18:18,937 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (4d04d4a6-dcbb-4c0b-9a82-4a0e8d2237f4)] -> id: pass]
+2017-09-04 20:18:51,199 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-04 20:18:53,126 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (4d04d4a6-dcbb-4c0b-9a82-4a0e8d2237f4)] -> link text: MY ORDERS]
+2017-09-04 20:19:24,459 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
+2017-09-04 20:30:19,439 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 20:30:19,663 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 20:30:19,686 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 20:30:21,861 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (88997ca8-463e-4272-8123-7bc97783eb76)] -> link text: MY ACCOUNT]
+2017-09-04 20:30:22,075 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (88997ca8-463e-4272-8123-7bc97783eb76)] -> id: email]
+2017-09-04 20:30:22,426 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (88997ca8-463e-4272-8123-7bc97783eb76)] -> id: pass]
+2017-09-04 20:30:54,448 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-04 20:30:56,508 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (88997ca8-463e-4272-8123-7bc97783eb76)] -> link text: MY ORDERS]
+2017-09-04 20:31:28,272 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
+2017-09-04 20:33:05,308 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 20:33:05,441 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 20:33:05,465 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 20:33:07,864 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (637d777a-b684-4753-971c-a4f85097f647)] -> link text: MY ACCOUNT]
+2017-09-04 20:33:08,074 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (637d777a-b684-4753-971c-a4f85097f647)] -> id: email]
+2017-09-04 20:33:08,252 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (637d777a-b684-4753-971c-a4f85097f647)] -> id: pass]
+2017-09-04 20:33:40,580 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-04 20:33:42,352 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (637d777a-b684-4753-971c-a4f85097f647)] -> link text: MY ORDERS]
+2017-09-04 20:34:13,876 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
+2017-09-04 21:25:20,187 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 21:25:20,268 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 21:25:20,293 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 21:25:22,197 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (62169b6e-d5ac-493c-8167-b627c4acda9e)] -> link text: MY ACCOUNT]
+2017-09-04 21:25:22,434 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (62169b6e-d5ac-493c-8167-b627c4acda9e)] -> id: email]
+2017-09-04 21:25:22,720 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (62169b6e-d5ac-493c-8167-b627c4acda9e)] -> id: pass]
+2017-09-04 21:25:54,679 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-04 21:25:56,602 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (62169b6e-d5ac-493c-8167-b627c4acda9e)] -> link text: MY ORDERS]
+2017-09-04 21:26:27,974 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
+2017-09-04 21:30:36,580 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 21:30:36,671 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 21:30:36,694 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 21:30:39,525 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (ceca4a97-958b-44c4-954e-b65ec23bed22)] -> link text: MY ACCOUNT]
+2017-09-04 21:30:39,732 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (ceca4a97-958b-44c4-954e-b65ec23bed22)] -> id: email]
+2017-09-04 21:30:40,245 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (ceca4a97-958b-44c4-954e-b65ec23bed22)] -> id: pass]
+2017-09-04 21:31:12,496 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-04 21:31:14,523 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (ceca4a97-958b-44c4-954e-b65ec23bed22)] -> link text: MY ORDERS]
+2017-09-04 21:31:45,999 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
+2017-09-04 21:40:36,514 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - url has lauching..
+2017-09-04 21:40:36,588 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Now Browser is maximize...
+2017-09-04 21:40:36,600 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - Page loading.....
+2017-09-04 21:40:39,091 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - account link is clicked [[FirefoxDriver: firefox on WINDOWS (1eeef396-3eee-4b4b-9e2d-9f394ca3dd8c)] -> link text: MY ACCOUNT]
+2017-09-04 21:40:39,201 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - email is is entered [[FirefoxDriver: firefox on WINDOWS (1eeef396-3eee-4b4b-9e2d-9f394ca3dd8c)] -> id: email]
+2017-09-04 21:40:39,300 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - pass is enterd [[FirefoxDriver: firefox on WINDOWS (1eeef396-3eee-4b4b-9e2d-9f394ca3dd8c)] -> id: pass]
+2017-09-04 21:41:11,685 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-04 21:41:13,451 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - myoder link is clicked [[FirefoxDriver: firefox on WINDOWS (1eeef396-3eee-4b4b-9e2d-9f394ca3dd8c)] -> link text: MY ORDERS]
+2017-09-04 21:41:45,133 [main] INFO com.guru.Ecommerce.Automation.testbase.TestBase - viewOrder link is clicked Proxy element for: DefaultElementLocator 'By.linkText: VIEW ORDER'
