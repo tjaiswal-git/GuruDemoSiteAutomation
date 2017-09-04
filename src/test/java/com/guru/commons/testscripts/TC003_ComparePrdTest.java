@@ -1,3 +1,13 @@
+/*      
+	Test Steps:
+	1. Goto http://live.guru99.com/
+	2. Click on ‘MOBILE’ menu
+	3. In mobile products list , click on ‘Add To Compare’ for 2 mobiles (Sony Xperia & Iphone)
+	4. Click on ‘COMPARE’ button. A popup window opens
+	5. Verify the pop-up window and check that the products are reflected in it
+	   Heading "COMPARE PRODUCTS" with selected products in it.
+	6. Close the Popup Windows
+	*/
 package com.guru.commons.testscripts;
 
 import java.util.Properties;
@@ -12,7 +22,6 @@ import com.guru.Ecommerce.Automation.testbase.TestBase;
 public class TC003_ComparePrdTest extends TestBase {
 
 	ComparePrdInList comparePrd;
-
 	@BeforeTest
 	public void setUp() {
 		Properties properties = getProp();

@@ -1,3 +1,12 @@
+/*
+Test Steps
+Step 1. Goto http://live.guru99.com/
+Step 2. Verify Title of the page
+Step 3. Click on ‘MOBILE’ menu
+Step 4. Verify Title of the page
+Step 5. In the list of all mobile , select ‘SORT BY’ dropdown as ‘name’
+Step 6. Verify all products are sorted by name
+*/
 package com.guru.commons.testscripts;
 
 import java.util.ArrayList;

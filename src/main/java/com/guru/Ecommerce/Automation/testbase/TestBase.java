@@ -35,7 +35,7 @@ public class TestBase
 	public static WebDriver driver;
 	//String URL="";
 	String browser="firefox";
-	static String downloadPath="C:\\Users\\tjaiswal\\Downloads";
+	protected static String downloadPath="C:\\Users\\tjaiswal\\Downloads";
 	
 	
 	public static final Logger logger=Logger.getLogger(TestBase.class.getName());
@@ -206,5 +206,35 @@ public class TestBase
     	 driver.close();
      }
 
+     
+     public boolean isFileDownloaded(String downloadPath, String fileName) {
+ 		boolean flag = false;
+ 	    File dir = new File(downloadPath);
+ 	    File[] dir_contents = dir.listFiles();
+ 	  	    
+ 	    for (int i = 0; i < dir_contents.length; i++) {
+ 	        if (dir_contents[i].getName().equals(fileName))
+ 	            return flag=true;
+ 	            }
+
+ 	    return flag;
+ 	}
+     
+     /* Check the file from a specific directory with extension */
+ 	public boolean isFileDownloaded_Ext(String dirPath, String ext){
+ 		boolean flag=false;
+ 	    File dir = new File(dirPath);
+ 	    File[] files = dir.listFiles();
+ 	    if (files == null || files.length == 0) {
+ 	        flag = false;
+ 	    }
+ 	    
+ 	    for (int i = 1; i < files.length; i++) {
+ 	    	if(files[i].getName().contains(ext)) {
+ 	    		flag=true;
+ 	    	}
+ 	    }
+ 	    return flag;
+ 	}
 }
 	
