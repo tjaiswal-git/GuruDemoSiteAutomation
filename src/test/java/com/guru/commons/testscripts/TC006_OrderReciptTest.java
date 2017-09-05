@@ -27,6 +27,7 @@ Expected results:
 package com.guru.commons.testscripts;
 
 import java.awt.AWTException;
+import java.io.IOException;
 import java.util.Properties;
 
 import org.apache.log4j.Logger;
@@ -68,7 +69,7 @@ public class TC006_OrderReciptTest extends TestBase{
     
 	@Test(priority=2)
 	
-	public void verifyPlaceOrderPdfDownloadStatus() throws AWTException
+	public void verifyPlaceOrderPdfDownloadStatus() throws AWTException, IOException
 	{
 		placedRC=new PlacedOrderReceipt(driver);
 		boolean statusOfPdf=placedRC.placedOrderPdfDownloadStatus();
