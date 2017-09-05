@@ -3,6 +3,7 @@ package com.guru.Ecommerce.Automation.pageobjects;
 import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
+import java.io.IOException;
 import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
@@ -23,16 +24,16 @@ public class PlacedOrderReceipt extends TestBase{
 	}
 	
 	@FindBy(linkText="MY ACCOUNT")
-	WebElement myacc;
+	static WebElement myacc;
 	
 	@FindBy(id="email")
-	WebElement eamilId;
+	static WebElement eamilId;
 	
 	@FindBy(id="pass")
-	WebElement pass;
+	static WebElement pass;
 	
 	@FindBy(id="send2")
-	WebElement loginUser;
+	static WebElement loginUser;
 	
 	@FindBy(linkText="MY ORDERS")
 	WebElement myOrder;
@@ -79,7 +80,7 @@ public class PlacedOrderReceipt extends TestBase{
 		
 	}
 	
-	public boolean placedOrderPdfDownloadStatus() throws AWTException
+	public boolean placedOrderPdfDownloadStatus() throws AWTException, IOException
       	{
 		
 		for (String handle : driver.getWindowHandles()) 
@@ -88,7 +89,7 @@ public class PlacedOrderReceipt extends TestBase{
 	    	}
 	
 		printOrder.click();
-		Robot robot=new Robot();
+	/*	Robot robot=new Robot();
 		int[] execuate={KeyEvent.VK_T,KeyEvent.VK_K,KeyEvent.VK_J,KeyEvent.VK_DECIMAL,KeyEvent.VK_X,KeyEvent.VK_P,KeyEvent.VK_S};
 		robot.delay(500);
 		robot.keyPress(KeyEvent.VK_TAB);
@@ -112,8 +113,12 @@ public class PlacedOrderReceipt extends TestBase{
 			robot.keyPress(execuate[i]);
 			robot.keyRelease(execuate[i]);
 		}
+		*/
 		
-		boolean downloadStatus=isFileDownloaded(downloadPath, "tkj.xps");
+		sleepTime(5);
+		Runtime.getRuntime().exec(System.getProperty("user.dir")+"\\AutoItScript\\pdfDownload.exe");
+		sleepTime(5);
+		boolean downloadStatus=isFileDownloaded(downloadPath, "tarun.xps");
 		return downloadStatus;
 		
 		

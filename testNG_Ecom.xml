@@ -33,5 +33,23 @@
 		</classes>
 
 	</test>
+	
+		<test name="OrderRecipt">
+		
+		<classes>
+			<class name="com.guru.commons.testscripts.TC006_OrderReciptTest" />
+		</classes>
+
+	</test>
+	
+	
+		<test name="ReorderTest">
+		
+		<classes>
+			<class name="com.guru.commons.testscripts.TC_007_ReorderTest" />
+		</classes>
+
+	</test>
+	
 </suite> <!-- Suite -->
   

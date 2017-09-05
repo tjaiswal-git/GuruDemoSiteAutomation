@@ -81,23 +81,23 @@ public class PurchasePrdThroughEmail extends TestBase{
 	WebElement shippingAddress;
 	
 	@FindBy(xpath=".//*[@id='shipping-method-buttons-container']/button")
-	WebElement continueShip;
+	static WebElement continueShip;
 	
 	@FindBy(id="p_method_checkmo")
-	WebElement orderMyCod;
+	static WebElement orderMyCod;
 	
 	@FindBy(xpath=".//*[@id='payment-buttons-container']/button")
-	WebElement paymentContinue;
+	static WebElement paymentContinue;
 	
 	@FindBy(xpath="//span[text()='$620.00']")
 	WebElement totalPrdcost;
 	
 	@FindBy(xpath="//button[@title='Place Order']")
-	WebElement placeOrder;
+	static WebElement placeOrder;
 	
 	@FindBy(xpath=".//*[@id='top']/body/div[1]/div/div[2]/div/div/p[1]")
 
-	WebElement orderId;
+	static WebElement orderId;
 	
 	@FindBy(xpath="//h1[text()='Your order has been received.']")
 	WebElement OrderMsg;
