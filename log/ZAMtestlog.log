@@ -684,3 +684,42 @@
 2017-09-06 00:26:57,168 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - place order btn is clicked..
 2017-09-06 00:26:59,526 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - order id has been sent successfully.
 2017-09-06 00:26:59,526 - com.guru.commons.testscripts.TC_007_ReorderTest -INFO - =========starting test verifyReoderIdConfirmation() =================
+2017-09-06 00:49:43,195 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-06 00:49:43,676 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-06 00:49:43,703 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-06 00:49:43,715 - com.guru.commons.testscripts.TC007_ReorderTest -INFO - =========starting test verifyReoderPrdTotalCost() =================
+2017-09-06 00:49:47,002 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - account link is clicked [[FirefoxDriver: firefox on WINDOWS (09be725e-09a1-4c3d-b0fe-f35a037cd96d)] -> link text: MY ACCOUNT]
+2017-09-06 00:49:47,375 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - email is is entered [[FirefoxDriver: firefox on WINDOWS (09be725e-09a1-4c3d-b0fe-f35a037cd96d)] -> id: email]
+2017-09-06 00:49:47,609 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - pass is enterd [[FirefoxDriver: firefox on WINDOWS (09be725e-09a1-4c3d-b0fe-f35a037cd96d)] -> id: pass]
+2017-09-06 00:50:19,841 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - login user is clicked Proxy element for: DefaultElementLocator 'By.id: send2'
+2017-09-06 00:50:31,698 - com.guru.commons.testscripts.TC007_ReorderTest -INFO - =========Finished test verifyReoderPrdTotalCost() =================
+2017-09-06 00:50:31,704 - com.guru.commons.testscripts.TC007_ReorderTest -INFO - =========starting test verifyReoderIdConfirmation() =================
+2017-09-06 00:50:36,284 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - procced to ...
+2017-09-06 00:50:36,515 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - Continue btn proceed [[FirefoxDriver: firefox on WINDOWS (09be725e-09a1-4c3d-b0fe-f35a037cd96d)] -> xpath: //*[@id='billing-buttons-container']/button]
+2017-09-06 00:50:37,860 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - Continue ship btn is clicked..
+2017-09-06 00:50:38,873 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - Payment mode is selected..
+2017-09-06 00:50:39,082 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - payment btn continue is proceed. 
+2017-09-06 00:50:41,101 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - place order btn is clicked..
+2017-09-06 00:50:43,379 - com.guru.Ecommerce.Automation.pageobjects.ReorderProduct -INFO - order id has been sent successfully.
+2017-09-06 00:50:43,379 - com.guru.commons.testscripts.TC007_ReorderTest -INFO - =========Finished test verifyReoderIdConfirmation() =================
+2017-09-06 23:19:33,624 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-06 23:19:33,744 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-06 23:19:33,767 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-06 23:22:38,855 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-06 23:22:38,942 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-06 23:22:38,966 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-06 23:34:08,541 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-06 23:34:08,636 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-06 23:34:08,660 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-06 23:34:08,923 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - mobile link is clicked.
+2017-09-06 23:34:16,496 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - iphone product is selected 
+2017-09-06 23:34:22,045 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - coupen is applied 
+2017-09-06 23:34:25,141 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - checkout is clicked
+2017-09-06 23:34:26,504 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - guest acc is selected 
+2017-09-06 23:34:26,660 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - fistname is entered 
+2017-09-06 23:34:26,815 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Lastname is entered 
+2017-09-06 23:34:26,991 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Email is entered 
+2017-09-06 23:34:27,134 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Address is entered 
+2017-09-06 23:34:27,303 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - billcity is entered 
+2017-09-06 23:34:28,114 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - pincode is entered 
+2017-09-06 23:34:28,325 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - telephone is entered 

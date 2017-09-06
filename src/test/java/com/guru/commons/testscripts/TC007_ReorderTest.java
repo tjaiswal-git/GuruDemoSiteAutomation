@@ -29,11 +29,11 @@ import com.guru.Ecommerce.Automation.pageobjects.PurchasePrdThroughEmail;
 import com.guru.Ecommerce.Automation.pageobjects.ReorderProduct;
 import com.guru.Ecommerce.Automation.testbase.TestBase;
 
-public class TC_007_ReorderTest extends TestBase {
+public class TC007_ReorderTest extends TestBase {
 	ReorderProduct reoderPrd;
 	PlacedOrderReceipt placedRecipt;
 	PurchasePrdThroughEmail purchase;
-	Logger logger=Logger.getLogger(TC_007_ReorderTest.class.getName());	
+	Logger logger=Logger.getLogger(TC007_ReorderTest.class.getName());	
 	    @BeforeTest
 		public void setUp()
 		{
@@ -77,7 +77,7 @@ public class TC_007_ReorderTest extends TestBase {
 	    	{
 	    		e.printStackTrace();
 	    	}
-	    	logger.info("=========starting test verifyReoderIdConfirmation() =================");
+	    	logger.info("=========Finished test verifyReoderIdConfirmation() =================");
 	    	
 	    }
 
