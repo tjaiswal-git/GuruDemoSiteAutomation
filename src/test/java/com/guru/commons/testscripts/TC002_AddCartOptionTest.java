@@ -3,6 +3,7 @@ package com.guru.commons.testscripts;
 import java.util.Properties;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -50,5 +51,10 @@ public class TC002_AddCartOptionTest extends TestBase {
 		}
 		logger.info("============Finished Test==========================");
 	}
-
+    
+	@AfterTest
+	public void tearDown()
+	{
+		closeDriver();
+	}
 }

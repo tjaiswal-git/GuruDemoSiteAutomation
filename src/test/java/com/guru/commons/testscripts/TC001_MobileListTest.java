@@ -123,12 +123,8 @@ public class TC001_MobileListTest extends
 	}
 
 	@AfterTest
-	public void close() {
-		driver.close();
-	}
-
+	public void tearDown()
 	{
-
+		closeDriver();
 	}
-
 }

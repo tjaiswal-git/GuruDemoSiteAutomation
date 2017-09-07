@@ -48,4 +48,9 @@ public class TC003_ComparePrdTest extends TestBase {
 		comparePrd.WindowClosePop();
 	}
 
+	@AfterTest
+	public void tearDown()
+	{
+		closeDriver();
+	}
 }
