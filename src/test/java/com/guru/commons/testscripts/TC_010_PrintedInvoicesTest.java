@@ -43,7 +43,7 @@ public class TC_010_PrintedInvoicesTest extends TestBase {
 	
 	@Test(priority=2)
 	
-	public void veridyInvoicesIsDownload()
+	public void verifyInvoicesIsDownload()
 	{
 		printedOdr=new InvoicesPrinted(driver);
 		try

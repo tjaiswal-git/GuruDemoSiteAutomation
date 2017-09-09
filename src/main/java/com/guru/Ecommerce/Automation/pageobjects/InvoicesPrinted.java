@@ -212,13 +212,13 @@ public class InvoicesPrinted extends TestBase {
 			robot.keyPress(KeyEvent.VK_ENTER); 
 			robot.keyRelease(KeyEvent.VK_ENTER); 
 
-			robot.delay(600);
+			robot.delay(1000);
 			
 		} catch (AWTException e) {
 			
 			e.printStackTrace();
 		}
-		
+		sleepTime(15);
 		boolean isDownload=isFileDownloaded_Ext(downloadPath, ".pdf");
 		
 		return isDownload;
