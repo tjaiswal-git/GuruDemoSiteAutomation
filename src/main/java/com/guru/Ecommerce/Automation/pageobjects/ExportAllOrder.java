@@ -39,7 +39,7 @@ public class ExportAllOrder extends TestBase {
 	WebElement exportBtn;
 	
 	@FindBy(xpath=".//*[@id='message-popup-window']/div[1]/a/span")
-	WebElement closePopup;
+	static WebElement closePopup;
 	
 	public boolean orderCsvfileIsdownload() throws AWTException
 	{
