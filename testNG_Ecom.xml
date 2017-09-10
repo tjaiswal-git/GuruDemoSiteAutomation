@@ -59,10 +59,26 @@
 
 	</test>
 
-   <test name="OrderDataInCsv">
+   <test name="OrderDataInCsvTest">
 
 		<classes>
 			<class name="com.guru.commons.testscripts.TC009_OrdersCsvDataTest" />
+		</classes>
+
+	</test>
+	
+	<test name="PrintedInvoicesTest">
+
+		<classes>
+			<class name="com.guru.commons.testscripts.TC_010_PrintedInvoicesTest" />
+		</classes>
+
+	</test>
+	
+	<test name="ProductReviewPostTest">
+
+		<classes>
+			<class name="com.guru.commons.testscripts.TC011_ProductReviewPostedTest" />
 		</classes>
 
 	</test>
