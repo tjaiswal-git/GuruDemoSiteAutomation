@@ -1,3 +1,19 @@
+/**
+ * 
+1.Go to http://live.guru99.com/index.php/backendlogin
+2.Login the credentials provided
+3.Go to Sales-> Orders menu
+4.In the status field select "Canceled". Click Search
+5.Select the checkbox next to first order
+6.In Actions, select "Print Invoices". Click Submit
+7.Verify the error message
+8.In the status field select "Complete". Click Search
+9.Select the checkbox next to first order
+10.In Actions, select "Print Invoices". Click Submit
+11. Verify invoice is downloaded
+
+ * 
+ */
 package com.guru.commons.testscripts;
 
 import java.util.Properties;
