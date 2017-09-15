@@ -39,28 +39,41 @@ public class TC013_SearchProductInPriceRangeTest extends TestBase {
 	{
 		serhFun=new SearchFunctionality(driver);
 		logger.info("===============Starting test verifySearchPrdInPrice()================");
-		String[] ss = serhFun.serachCriteriaThroughPrice();
+		for(int i=0;i<=1;i++){
+		String[] ss = serhFun.serachCriteriaThroughPrice(i);
 		for(String s:ss)
 		{
-			System.out.println("Price is "+s);
+			System.out.println("Actual Product Price is "+s);
 			try
 		    {
 			float price=Float.parseFloat(s);
-			float actualPrice=Float.parseFloat(prop.getProperty("priceEnd"));
-		    System.out.println("Actual Price is "+actualPrice);
+			float actualPrice = 0;
+			if(i==0)
+			{
+		      actualPrice=Float.parseFloat(prop.getProperty("priceEnd"));
+			}
+			if(i==1)
+			    {
+				 actualPrice=Float.parseFloat(prop.getProperty("price2End"));
+				}
+				
+			System.out.println("Product Range Price is "+actualPrice);
 			if(price<=actualPrice)
 			{
 				Assert.assertTrue(true);
+				logger.info("verified for the product price getting under the range "+" Range: "+actualPrice+" Product-Price: "+price);
 			}
 			else
 			{
 				Assert.fail();
 			}
 		    }
+			
 		    catch(Exception e)
 		    {
 		    	e.printStackTrace();
 		    }
+		}
 		}
 		logger.info("===============Finished test verifySearchPrdInPrice()================");
 	}

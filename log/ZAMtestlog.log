@@ -1048,3 +1048,91 @@
 2017-09-15 00:13:18,143 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
 2017-09-15 00:13:21,538 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
 2017-09-15 00:13:21,632 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Finished test verifySearchPrdInPrice()================
+2017-09-15 22:19:25,805 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:19:26,001 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:19:26,034 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:19:26,073 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:19:58,660 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:20:04,011 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:24:01,815 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:24:02,161 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:24:02,226 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:24:02,277 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:24:32,776 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:24:38,086 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:26:02,470 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:26:02,543 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:26:02,559 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:26:02,589 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:26:35,127 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:26:37,324 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:26:39,563 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:26:43,661 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:26:44,601 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:26:46,801 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:26:49,069 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:26:51,714 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:43:21,495 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:43:21,623 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:43:21,646 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:43:21,676 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:44:09,845 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:44:10,042 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:44:10,064 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:44:10,092 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:44:40,915 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:44:43,171 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:44:45,479 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:44:49,842 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:45:49,287 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:45:49,414 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:45:49,437 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:45:49,466 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:46:19,845 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:46:22,297 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:46:24,675 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:46:28,236 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:48:25,462 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:48:25,582 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:48:25,612 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:48:25,647 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:48:56,145 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:48:58,308 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:49:00,579 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:49:04,123 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:49:04,755 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:49:06,971 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:49:09,211 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:49:12,131 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:49:12,384 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Finished test verifySearchPrdInPrice()================
+2017-09-15 22:51:00,821 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:51:00,969 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:51:01,010 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:51:01,066 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:51:31,510 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:51:33,804 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:51:36,247 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:51:39,914 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:51:40,703 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:51:42,983 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:51:45,267 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:51:48,357 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:51:48,584 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Finished test verifySearchPrdInPrice()================
+2017-09-15 22:56:26,299 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-15 22:56:26,991 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-15 22:56:27,032 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-15 22:56:27,071 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Starting test verifySearchPrdInPrice()================
+2017-09-15 22:56:57,471 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:56:59,783 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:57:02,198 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:57:05,867 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:57:06,162 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - verified for the product price getting under the range  Range: 150.0 Product-Price: 100.0
+2017-09-15 22:57:06,163 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - verified for the product price getting under the range  Range: 150.0 Product-Price: 130.0
+2017-09-15 22:57:06,413 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - advanced search btn is clicked 
+2017-09-15 22:57:08,724 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Inital price is entered
+2017-09-15 22:57:11,054 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - Final price is entered
+2017-09-15 22:57:14,444 - com.guru.Ecommerce.Automation.pageobjects.SearchFunctionality -INFO - search btn is clicked
+2017-09-15 22:57:14,629 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - verified for the product price getting under the range  Range: 1000.0 Product-Price: 500.0
+2017-09-15 22:57:14,629 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - verified for the product price getting under the range  Range: 1000.0 Product-Price: 615.0
+2017-09-15 22:57:14,629 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - verified for the product price getting under the range  Range: 1000.0 Product-Price: 700.0
+2017-09-15 22:57:14,629 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Finished test verifySearchPrdInPrice()================

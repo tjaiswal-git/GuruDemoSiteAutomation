@@ -82,6 +82,22 @@
 		</classes>
 
 	</test>
+	
+	<test name="DateSortInInvoiceTest">
+
+		<classes>
+			<class name="com.guru.commons.testscripts.TC012_DateSortingInInvoicesTest" />
+		</classes>
+
+	</test>
+	
+	<test name="SearchFunctionalityTest">
+
+		<classes>
+			<class name="com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest" />
+		</classes>
+
+	</test>
 
 </suite> <!-- Suite -->
   

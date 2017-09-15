@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.guru.commons.testscripts.TC009_OrdersCsvDataTest">
+      <class name="com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest">
         <methods>
+          <include name="verifySearchPrdInPrice"/>
           <include name="setUp"/>
-          <include name="verifyOrderCsvIsDownloadorNot"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.guru.commons.testscripts.TC009_OrdersCsvDataTest -->
+      </class> <!-- com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

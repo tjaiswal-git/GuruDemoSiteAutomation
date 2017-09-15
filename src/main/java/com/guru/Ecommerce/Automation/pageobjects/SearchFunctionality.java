@@ -2,6 +2,8 @@ package com.guru.Ecommerce.Automation.pageobjects;
 
 import java.util.List;
 import java.util.Properties;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
@@ -34,6 +36,8 @@ public class SearchFunctionality extends TestBase {
 	@FindBy(xpath=".//*[@id='form-validate']/div[2]/button")
 	WebElement searchBtn;
 	
+	@FindBy(xpath=".//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/p/strong")
+	WebElement totalItem;
 	public List<WebElement> getPrdPrice()
 	{
 		return driver.findElements(By.xpath("//span[starts-with(@id,'product-price')]"));
@@ -43,17 +47,17 @@ public class SearchFunctionality extends TestBase {
 	@FindBy(xpath="//span[starts-with(@id,'product-price')]")
 	WebElement prdPrice;
 	*/
-	public String[] serachCriteriaThroughPrice()
+	public String[] serachCriteriaThroughPrice(int i)
 	{
 		//@SuppressWarnings("unused")
 		System.out.println("getPrsPrice size "+getPrdPrice().size());
-		String[] prdCostList=new String[2];
+		String[] prdCostList = null;
 	    try{
-		sleepTime(2);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		advancedSearch.click();
 		logger.info("advanced search btn is clicked ");
 		sleepTime(2);
-		
+		if(i==0){
 		price.clear();
 		price.sendKeys(prop.getProperty("priceStart"));
 		logger.info("Inital price is entered");
@@ -63,18 +67,36 @@ public class SearchFunctionality extends TestBase {
 		priceTo.clear();
 		priceTo.sendKeys(prop.getProperty("priceEnd"));
 		logger.info("Final price is entered");
+		}
 		
+		if(i==1){
+			price.clear();
+			price.sendKeys(prop.getProperty("price2Start"));
+			logger.info("Inital price is entered");
+			
+			sleepTime(2);
+			
+			priceTo.clear();
+			priceTo.sendKeys(prop.getProperty("price2End"));
+			logger.info("Final price is entered");
+			}
 		sleepTime(1);
 		searchBtn.click();
 		logger.info("search btn is clicked");
+		String txt=totalItem.getText().trim().replace(" item(s)", "");
+	     //String txt1=txt.replace(" ", "");
+		int totalITEM=Integer.parseInt(txt);
+		System.out.println("Total Item "+totalITEM);
+		 prdCostList=new String[totalITEM];
+		 int ii=0;
+		 ////id[contains(text(),'PHONE$')
+		 // .//*[@id='top']/body/div[1]/div/div[2]/div/div[2]/p/strong
 		
-		 int i=0;
-			
 		for(WebElement element:getPrdPrice())
 		{ 
 			String correctedPrice =element.getText().replace("$", "");        
-			prdCostList[i]=correctedPrice;
-			i++;
+			prdCostList[ii]=correctedPrice;
+			ii++;
 		  
 	
 		}
