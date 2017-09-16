@@ -1136,3 +1136,62 @@
 2017-09-15 22:57:14,629 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - verified for the product price getting under the range  Range: 1000.0 Product-Price: 615.0
 2017-09-15 22:57:14,629 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - verified for the product price getting under the range  Range: 1000.0 Product-Price: 700.0
 2017-09-15 22:57:14,629 - com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -INFO - ===============Finished test verifySearchPrdInPrice()================
+2017-09-16 19:24:19,416 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-16 19:24:20,643 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-16 19:24:20,813 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-16 19:24:20,991 - com.guru.commons.testscripts.TC014_DisabledFieldTest -INFO - ============Starting verifyDisabledFieldTest()================== 
+2017-09-16 19:24:21,302 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps userName is entered
+2017-09-16 19:24:21,579 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps passWord is entered
+2017-09-16 19:24:27,096 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - login is btn is clicked
+2017-09-16 19:24:31,528 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Extra popup is closed
+2017-09-16 19:24:33,755 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Hover btn is performed 
+2017-09-16 19:24:33,968 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Manage customer is clicked
+2017-09-16 19:26:43,675 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-16 19:26:43,743 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-16 19:26:44,002 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-16 19:26:44,065 - com.guru.commons.testscripts.TC014_DisabledFieldTest -INFO - ============Starting verifyDisabledFieldTest()================== 
+2017-09-16 19:26:44,291 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps userName is entered
+2017-09-16 19:26:44,748 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps passWord is entered
+2017-09-16 19:26:50,108 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - login is btn is clicked
+2017-09-16 19:26:54,552 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Extra popup is closed
+2017-09-16 19:26:56,814 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Hover btn is performed 
+2017-09-16 19:26:57,016 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Manage customer is clicked
+2017-09-16 19:27:06,204 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - checking the element is enabled ot not 
+2017-09-16 19:28:36,367 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-16 19:28:36,471 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-16 19:28:36,500 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-16 19:28:36,561 - com.guru.commons.testscripts.TC014_DisabledFieldTest -INFO - ============Starting verifyDisabledFieldTest()================== 
+2017-09-16 19:28:49,529 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps userName is entered
+2017-09-16 19:28:57,707 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps passWord is entered
+2017-09-16 19:29:09,443 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - login is btn is clicked
+2017-09-16 19:29:26,447 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Extra popup is closed
+2017-09-16 19:29:40,932 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Hover btn is performed 
+2017-09-16 19:29:43,561 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Manage customer is clicked
+2017-09-16 19:30:46,576 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - checking the element is enabled ot not 
+2017-09-16 19:35:46,846 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-16 19:35:46,982 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-16 19:35:47,115 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-16 19:35:47,176 - com.guru.commons.testscripts.TC014_DisabledFieldTest -INFO - ============Starting verifyDisabledFieldTest()================== 
+2017-09-16 19:35:47,379 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps userName is entered
+2017-09-16 19:35:47,523 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps passWord is entered
+2017-09-16 19:35:52,267 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - login is btn is clicked
+2017-09-16 19:35:56,724 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Extra popup is closed
+2017-09-16 19:35:58,896 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Hover btn is performed 
+2017-09-16 19:35:59,076 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Manage customer is clicked
+2017-09-16 19:36:06,493 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - element 1 status false
+2017-09-16 19:36:08,620 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - element 2 status false
+2017-09-16 19:36:08,621 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - checking the element is enabled ot not false
+2017-09-16 19:37:31,161 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-16 19:37:31,263 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-16 19:37:31,315 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-16 19:37:31,365 - com.guru.commons.testscripts.TC014_DisabledFieldTest -INFO - ============Starting verifyDisabledFieldTest()================== 
+2017-09-16 19:37:31,583 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps userName is entered
+2017-09-16 19:37:31,875 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - backend apps passWord is entered
+2017-09-16 19:37:37,709 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - login is btn is clicked
+2017-09-16 19:37:42,145 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Extra popup is closed
+2017-09-16 19:37:44,323 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Hover btn is performed 
+2017-09-16 19:37:44,500 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - Manage customer is clicked
+2017-09-16 19:37:52,207 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - element 1 status false
+2017-09-16 19:37:54,381 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - element 2 status false
+2017-09-16 19:37:54,382 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - checking the element is enabled ot not false
+2017-09-16 19:37:54,387 - com.guru.commons.testscripts.TC014_DisabledFieldTest -INFO - ============Finished verifyDisabledFieldTest()================== 
