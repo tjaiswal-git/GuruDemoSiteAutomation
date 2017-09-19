@@ -1195,3 +1195,102 @@
 2017-09-16 19:37:54,381 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - element 2 status false
 2017-09-16 19:37:54,382 - com.guru.Ecommerce.Automation.pageobjects.DisabledField -INFO - checking the element is enabled ot not false
 2017-09-16 19:37:54,387 - com.guru.commons.testscripts.TC014_DisabledFieldTest -INFO - ============Finished verifyDisabledFieldTest()================== 
+2017-09-19 20:39:26,255 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 20:39:26,635 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 20:39:26,706 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 20:39:26,778 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 20:39:27,103 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 20:39:27,258 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 20:39:31,840 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 20:39:37,405 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 20:39:39,849 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 20:39:42,531 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 20:39:44,907 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 20:39:47,473 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 5
+2017-09-19 20:39:49,719 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 6
+2017-09-19 20:39:49,770 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - actual page number is 5
+2017-09-19 20:39:49,772 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Finished verifyPaginationTrackTest() =================
+2017-09-19 20:59:43,714 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 20:59:43,774 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 20:59:43,796 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 20:59:43,827 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 20:59:44,069 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 20:59:44,207 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 20:59:49,965 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 20:59:54,395 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 20:59:56,833 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 20:59:59,073 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 21:00:01,244 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 21:00:03,418 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 5
+2017-09-19 21:00:05,678 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 6
+2017-09-19 21:00:05,751 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - actual page number is (Next Level) 5
+2017-09-19 21:00:07,925 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 4
+2017-09-19 21:03:10,885 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 21:03:10,942 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 21:03:11,072 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 21:03:11,108 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 21:03:11,312 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 21:03:11,452 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 21:03:15,722 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 21:03:20,043 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 21:03:22,490 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 21:04:12,426 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 21:04:12,585 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 21:04:12,619 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 21:04:12,666 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 21:04:12,969 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 21:04:13,152 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 21:04:17,531 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 21:04:21,805 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 21:04:24,254 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 21:04:26,477 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 21:04:28,645 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 21:06:46,546 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 21:06:46,595 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 21:06:46,608 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 21:06:46,643 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 21:06:46,853 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 21:06:46,936 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 21:06:53,060 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 21:06:57,226 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 21:07:03,979 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 21:07:09,089 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 21:07:14,202 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 21:08:48,301 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 21:08:48,359 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 21:08:48,380 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 21:08:48,415 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 21:08:48,615 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 21:08:48,754 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 21:08:53,205 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 21:08:57,530 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 21:09:12,038 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 21:09:26,217 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 21:09:40,398 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 21:09:54,584 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 5
+2017-09-19 21:10:08,741 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 6
+2017-09-19 21:10:08,821 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - actual page number is (Next Level) 6
+2017-09-19 21:10:27,986 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 5
+2017-09-19 21:10:37,162 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 5
+2017-09-19 21:10:46,358 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 5
+2017-09-19 21:10:55,616 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 5
+2017-09-19 21:12:46,464 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 21:12:46,522 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 21:12:46,545 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 21:12:46,577 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 21:12:46,979 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 21:12:47,121 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 21:12:51,984 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 21:12:56,252 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 21:13:10,690 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 21:13:24,862 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 21:13:39,081 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 21:13:53,268 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 5
+2017-09-19 21:14:07,435 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 6
+2017-09-19 21:14:07,510 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - actual page number is (Next Level) 6
+2017-09-19 21:14:26,677 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 5
+2017-09-19 21:14:35,849 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 4
+2017-09-19 21:14:45,029 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 3
+2017-09-19 21:14:54,197 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 2
+2017-09-19 21:15:03,358 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 1
+2017-09-19 21:15:05,440 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Finished verifyPaginationTrackTest() =================
