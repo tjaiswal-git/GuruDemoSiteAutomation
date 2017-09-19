@@ -1,12 +1,13 @@
-/**----------TestCase details-----------------------
-1.Go to http://live.guru99.com/index.php/backendlogin
-2.Login the credentials provided 
-3.Go to Customer-> Manage Customers
-4.Go to Page and click next
-5.Capture the result page level and verify to the page Number.
-6.Now go the previous page and same as Step:5"
- * 
- */
+
+/*-------------------------------------------------------------------------------------------------------------------*\
+|  Copyright (C) 2017-2021 Tarun                                                                                     |
+|----------------------------------------------TestCase details------------------------------------------------------|                                                                                              |
+|1.Go to http://live.guru99.com/index.php/backendlogin                                                               |          
+|2.Login the credentials provided                                                                                    |
+|3.Go to Customer-> Manage Customers                                                                                 |
+|4.Go to Page and click next                                                                                         |                                                                                  |5.Capture the result page level and verify to the page Number.                                                      |
+|6.Now go the previous page and same as Step:5"                                                                      |                      
+\*-------------------------------------------------------------------------------------------------------------------*/
 
 package com.guru.commons.testscripts;
 
