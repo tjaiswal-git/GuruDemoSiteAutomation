@@ -6,10 +6,13 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
+import java.util.function.Function;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -20,6 +23,8 @@ import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
+import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Reporter;
 
@@ -173,6 +178,42 @@ public class TestBase
 			e.printStackTrace();
 		}
 	}
+	/**
+	 * When a FluentWait instance is implemented it defines the maximum amount of time to wait for a condition, 
+	 * as well as the frequency with which to check the condition. Furthermore, the user may configure the wait 
+	 * to ignore specific types of exceptions whilst waiting, such as NoSuchElementExceptions when searching for
+	 *  an element on the page.
+	 *  @param element
+	 *  @return WebElement element 
+	 */
+	
+	public WebElement ownFluentWait(final WebElement element)
+	{
+		Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
+
+			       .withTimeout(30, TimeUnit.SECONDS)
+
+			       .pollingEvery(5, TimeUnit.SECONDS)
+
+			       .ignoring(NoSuchElementException.class);
+
+			 
+
+			   WebElement foo = wait.until(new Function<WebDriver, WebElement>() {
+
+			     public WebElement apply(WebDriver driver) {
+
+			       return element;
+
+			     }
+
+			   });
+			return foo;
+	}
+	
+	
+	
+	
 	
 	/**
 	 * This method is used for take a screen shot through webdriver with format of current time instance

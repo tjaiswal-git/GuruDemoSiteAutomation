@@ -83,7 +83,8 @@ public class PaginationOperation extends TestBase
 		mngCustomers.click();
 		for(int i=1;i<=5;i++)
 		{
-			sleepTime(12);
+			//sleepTime(12);
+			ownFluentWait(nextPage);
 			nextPage.click();
 			sleepTime(2);
 			
@@ -98,7 +99,7 @@ public class PaginationOperation extends TestBase
 	    sleepTime(12);
 	    for(int i=1;i<=5;i++)
 		{
-			sleepTime(7);
+			ownFluentWait(previousPage);
 			previousPage.click();
 			logger.info("we are in page (Previous Level) "+(actualPage-i));
 			sleepTime(2);
