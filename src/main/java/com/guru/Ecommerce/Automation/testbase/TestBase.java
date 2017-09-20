@@ -16,6 +16,8 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriver.Timeouts;
+import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -178,6 +180,14 @@ public class TestBase
 			e.printStackTrace();
 		}
 	}
+	
+	public Timeouts ownImplicitWait(long time)
+	{
+		Timeouts implicitWait=driver.manage().timeouts().implicitlyWait(time, TimeUnit.SECONDS);
+		return implicitWait;
+	}
+	
+	
 	/**
 	 * When a FluentWait instance is implemented it defines the maximum amount of time to wait for a condition, 
 	 * as well as the frequency with which to check the condition. Furthermore, the user may configure the wait 
@@ -191,11 +201,11 @@ public class TestBase
 	{
 		Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
 
-			       .withTimeout(30, TimeUnit.SECONDS)
+			       .withTimeout(120, TimeUnit.SECONDS)
 
 			       .pollingEvery(5, TimeUnit.SECONDS)
 
-			       .ignoring(NoSuchElementException.class);
+			       .ignoring(WebDriverException.class);
 
 			 
 

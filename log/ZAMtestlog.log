@@ -1294,3 +1294,238 @@
 2017-09-19 21:14:54,197 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 2
 2017-09-19 21:15:03,358 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 1
 2017-09-19 21:15:05,440 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Finished verifyPaginationTrackTest() =================
+2017-09-19 22:50:44,217 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 22:50:44,606 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 22:50:44,628 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 22:50:44,664 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 22:50:45,171 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 22:50:45,781 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 22:51:16,241 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 22:51:37,139 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 22:51:37,201 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 22:51:37,227 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 22:51:37,266 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 22:51:37,470 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 22:51:37,730 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 22:51:43,287 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 22:51:47,725 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 22:52:54,046 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 22:53:38,145 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 22:53:50,255 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 22:54:04,395 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 5
+2017-09-19 22:54:14,903 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 6
+2017-09-19 22:54:18,743 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - actual page number is (Next Level) 6
+2017-09-19 22:54:41,620 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 5
+2017-09-19 22:55:12,191 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 22:55:12,289 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 22:55:12,315 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 22:55:12,345 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 22:55:12,842 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 22:55:13,017 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 22:55:17,868 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 22:55:22,387 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 22:55:25,951 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 22:55:28,193 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 22:55:30,371 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 22:55:32,612 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 5
+2017-09-19 22:55:34,809 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 6
+2017-09-19 22:55:34,902 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - actual page number is (Next Level) 6
+2017-09-19 22:55:47,080 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 5
+2017-09-19 22:55:49,252 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 4
+2017-09-19 22:55:51,429 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 3
+2017-09-19 22:55:53,595 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 2
+2017-09-19 22:55:55,763 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 1
+2017-09-19 22:55:57,841 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Finished verifyPaginationTrackTest() =================
+2017-09-19 23:10:38,455 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 23:10:38,517 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 23:10:38,544 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 23:10:38,579 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 23:10:38,951 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 23:10:39,095 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 23:10:43,306 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 23:10:47,552 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 23:10:49,380 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 23:11:14,652 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 23:11:14,748 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 23:11:14,796 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 23:11:14,823 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 23:11:15,023 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 23:11:15,201 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 23:11:20,050 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 23:11:24,451 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 23:11:26,260 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 23:13:09,410 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-19 23:13:09,466 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-19 23:13:09,490 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-19 23:13:09,520 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-19 23:13:09,726 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-19 23:13:09,869 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-19 23:13:16,178 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-19 23:13:20,648 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - Extra popup is closed
+2017-09-19 23:13:24,381 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 2
+2017-09-19 23:13:26,590 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 3
+2017-09-19 23:13:28,769 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 4
+2017-09-19 23:13:30,941 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 5
+2017-09-19 23:13:33,133 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page 6
+2017-09-19 23:13:33,212 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - actual page number is (Next Level) 6
+2017-09-19 23:13:45,402 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 5
+2017-09-19 23:13:47,582 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 4
+2017-09-19 23:13:49,748 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 3
+2017-09-19 23:13:51,915 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 2
+2017-09-19 23:13:54,083 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - we are in page (Previous Level) 1
+2017-09-19 23:13:56,152 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Finished verifyPaginationTrackTest() =================
+2017-09-20 22:46:28,550 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 22:46:29,009 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 22:46:29,167 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 22:46:29,429 - com.guru.commons.testscripts.TC015_PaginationOperationTest -INFO - ============Starting verifyPaginationTrackTest() =================
+2017-09-20 22:46:29,799 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps userName is entered
+2017-09-20 22:46:30,205 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - backend apps passWord is entered
+2017-09-20 22:46:35,354 - com.guru.Ecommerce.Automation.pageobjects.PaginationOperation -INFO - login is btn is clicked
+2017-09-20 22:55:53,320 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 22:55:53,378 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 22:55:53,506 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 22:55:53,531 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 22:55:53,766 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 22:55:54,171 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 22:55:58,717 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 22:56:03,296 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 22:56:44,575 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 22:56:44,633 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 22:56:44,657 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 22:56:44,671 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 22:56:45,192 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 22:56:45,343 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 22:56:49,392 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 22:56:53,703 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 22:59:40,632 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 22:59:40,696 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 22:59:40,725 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 22:59:40,737 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 22:59:40,973 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 22:59:41,200 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 22:59:45,891 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 22:59:50,265 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:01:06,639 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:01:06,696 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:01:06,722 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:01:06,733 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:01:07,039 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:01:07,230 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:01:14,009 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:01:18,279 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:01:23,880 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - search btn is clicked...
+2017-09-20 23:01:27,077 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 1Times getting country name India
+2017-09-20 23:01:28,174 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 2Times getting country name India
+2017-09-20 23:01:29,291 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 3Times getting country name India
+2017-09-20 23:01:30,383 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 4Times getting country name India
+2017-09-20 23:01:31,480 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 5Times getting country name India
+2017-09-20 23:01:32,577 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 6Times getting country name India
+2017-09-20 23:01:33,687 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 7Times getting country name India
+2017-09-20 23:01:34,789 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 8Times getting country name India
+2017-09-20 23:01:35,876 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 9Times getting country name India
+2017-09-20 23:01:36,956 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 10Times getting country name India
+2017-09-20 23:01:38,108 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 11Times getting country name India
+2017-09-20 23:01:39,194 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 12Times getting country name India
+2017-09-20 23:01:40,277 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 13Times getting country name India
+2017-09-20 23:01:41,373 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 14Times getting country name India
+2017-09-20 23:01:42,477 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 15Times getting country name India
+2017-09-20 23:01:43,570 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 16Times getting country name India
+2017-09-20 23:01:44,652 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 17Times getting country name India
+2017-09-20 23:01:45,739 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 18Times getting country name India
+2017-09-20 23:01:46,838 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 19Times getting country name India
+2017-09-20 23:01:47,948 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 20Times getting country name India
+2017-09-20 23:01:47,950 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Finished verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:04:00,456 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:04:00,514 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:04:00,537 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:04:00,551 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:04:00,773 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:04:00,913 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:04:05,503 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:04:09,771 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:05:47,224 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:05:47,285 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:05:47,309 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:05:47,322 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:05:47,739 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:05:48,092 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:05:53,452 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:05:57,965 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:08:01,823 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:08:01,884 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:08:01,905 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:08:01,917 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:08:02,135 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:08:02,272 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:08:08,912 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:08:13,290 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:09:25,306 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:09:25,365 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:09:25,387 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:09:25,399 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:09:25,830 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:09:26,095 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:09:31,232 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:09:35,508 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:10:21,870 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:10:21,929 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:10:21,953 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:10:21,965 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:10:22,210 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:10:22,483 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:10:28,779 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:10:33,048 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:11:24,814 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:11:24,998 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:11:25,091 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:11:25,112 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:11:25,340 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:11:25,550 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:11:30,140 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:11:34,405 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:13:42,592 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:13:42,649 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:13:42,674 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:13:42,685 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:13:42,919 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:13:43,059 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:13:47,316 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:13:51,595 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:14:39,040 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:14:39,096 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:14:39,184 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:14:39,208 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:14:39,539 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:14:39,683 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:14:44,972 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:14:49,245 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:15:55,927 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-20 23:15:56,092 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-20 23:15:56,118 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-20 23:15:56,130 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Starting verifySerachCustomerDataByCountryTest() =================
+2017-09-20 23:15:56,372 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps userName is entered
+2017-09-20 23:15:56,510 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - backend apps passWord is entered
+2017-09-20 23:16:01,121 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - login is btn is clicked
+2017-09-20 23:16:05,389 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - Extra popup is closed
+2017-09-20 23:16:16,048 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - search btn is clicked...
+2017-09-20 23:16:19,228 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 1Times getting country name India
+2017-09-20 23:16:20,350 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 2Times getting country name India
+2017-09-20 23:16:21,440 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 3Times getting country name India
+2017-09-20 23:16:22,525 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 4Times getting country name India
+2017-09-20 23:16:23,623 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 5Times getting country name India
+2017-09-20 23:16:24,708 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 6Times getting country name India
+2017-09-20 23:16:25,805 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 7Times getting country name India
+2017-09-20 23:16:26,890 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 8Times getting country name India
+2017-09-20 23:16:27,981 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 9Times getting country name India
+2017-09-20 23:16:29,065 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 10Times getting country name India
+2017-09-20 23:16:30,157 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 11Times getting country name India
+2017-09-20 23:16:31,263 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 12Times getting country name India
+2017-09-20 23:16:32,362 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 13Times getting country name India
+2017-09-20 23:16:33,447 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 14Times getting country name India
+2017-09-20 23:16:34,538 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 15Times getting country name India
+2017-09-20 23:16:35,636 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 16Times getting country name India
+2017-09-20 23:16:36,735 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 17Times getting country name India
+2017-09-20 23:16:37,823 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 18Times getting country name India
+2017-09-20 23:16:38,908 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 19Times getting country name India
+2017-09-20 23:16:39,991 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 20Times getting country name India
+2017-09-20 23:16:39,993 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Finished verifySerachCustomerDataByCountryTest() =================
