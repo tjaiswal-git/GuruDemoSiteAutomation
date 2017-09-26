@@ -35,16 +35,18 @@ public class SearchCustomerThroughCountry extends TestBase
 	}
 	
 	@FindBy(css="#username")
-	WebElement userName;
+	public static WebElement userName;
 	
 	@FindBy(css="#login")
-	WebElement password;
+	public static WebElement password;
 	
 	@FindBy(css="input[value='Login']")
-	WebElement loginBtn;
+	public static WebElement loginBtn;
 	
-	@FindBy(xpath="//option[@selected='selected']")
-	WebElement viewSelection;
+	//@FindBy(xpath="//option[@selected='selected']")
+	@FindBy(xpath=".//*[@id='customerGrid']/table/tbody/tr/td[1]/select/option[3]")
+	
+	public static WebElement viewSelection;
 	
 	@FindBy(css="#customerGrid_filter_billing_country_id")
 	WebElement selcountryName;

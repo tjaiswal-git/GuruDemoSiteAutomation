@@ -1,3 +1,14 @@
+/**  @author tjaiswal
+ *   @description TestCase Details
+ 1.Go to http://live.guru99.com/index.php/backendlogin
+ 2.Login the credentials provided
+ 3.Go to Customer-> Manage Customers
+ 4.Go to the Country selection box and set the ""India""
+ 5.Now click the Search button
+ 6.Verify the all customer have field country in page
+ should show  the  ""india""
+ "
+ */
 package com.guru.commons.testscripts;
 
 import java.util.Properties;
