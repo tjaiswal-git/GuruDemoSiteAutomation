@@ -1529,3 +1529,139 @@
 2017-09-20 23:16:38,908 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 19Times getting country name India
 2017-09-20 23:16:39,991 - com.guru.Ecommerce.Automation.pageobjects.SearchCustomerThroughCountry -INFO - 20Times getting country name India
 2017-09-20 23:16:39,993 - com.guru.commons.testscripts.TC016_SearchCustomerDataByCountryNameTest -INFO - ============Finished verifySerachCustomerDataByCountryTest() =================
+2017-09-24 20:29:49,575 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-24 20:29:49,745 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-24 20:29:49,781 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-24 20:31:18,927 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-24 20:31:18,986 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-24 20:31:19,011 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-24 20:31:19,264 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-24 20:31:19,467 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-24 20:31:19,694 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-24 20:34:14,536 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-24 20:34:14,602 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-24 20:34:14,624 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-24 20:34:14,895 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-24 20:34:15,161 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-24 20:34:19,641 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-24 20:34:23,904 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - Extra popup is closed
+2017-09-24 20:34:28,089 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Login status true
+2017-09-24 20:37:05,905 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-24 20:37:06,053 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-24 20:37:06,079 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-24 20:37:06,469 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-24 20:37:06,619 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-24 20:37:11,113 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-24 20:37:15,483 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - Extra popup is closed
+2017-09-24 20:37:19,687 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Login status true
+2017-09-24 20:41:09,185 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-24 20:41:09,253 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-24 20:41:09,275 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-24 20:41:09,556 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-24 20:41:09,978 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-24 20:41:14,987 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-24 20:41:19,261 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - Extra popup is closed
+2017-09-24 20:41:23,626 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Login status true
+2017-09-24 20:44:19,905 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-24 20:44:20,252 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-24 20:44:20,279 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-24 20:44:20,644 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-24 20:44:20,866 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-24 20:44:25,673 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-24 20:44:29,961 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - Extra popup is closed
+2017-09-24 20:44:34,181 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Login status true
+2017-09-24 20:44:34,955 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - view has selected [[FirefoxDriver: firefox on WINDOWS (15f6f3fc-b29f-42e6-9c26-c74289f76575)] -> xpath: .//*[@id='customerGrid']/table/tbody/tr/td[1]/select/option[3]]
+2017-09-26 21:29:29,775 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-26 21:29:30,278 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-26 21:29:30,357 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-26 21:32:14,653 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-26 21:32:14,740 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-26 21:32:14,762 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-26 21:33:53,272 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-26 21:33:53,491 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-26 21:33:53,539 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-26 21:33:54,454 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-26 21:33:54,973 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-26 21:34:12,164 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-26 21:34:16,763 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - Extra popup is closed
+2017-09-26 21:34:21,148 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Login status true
+2017-09-26 21:34:22,598 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - view has selected [[FirefoxDriver: firefox on WINDOWS (5c244995-58f4-4f60-b156-20b6e1498c6e)] -> xpath: .//*[@id='customerGrid']/table/tbody/tr/td[1]/select/option[3]]
+2017-09-26 22:06:59,093 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-26 22:06:59,208 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-26 22:06:59,357 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-26 22:06:59,624 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-26 22:07:00,145 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-26 22:07:26,361 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-26 22:07:30,767 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - Extra popup is closed
+2017-09-26 22:07:35,680 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - view has selected [[FirefoxDriver: firefox on WINDOWS (42342269-c924-41b9-881a-e39cad4d6b41)] -> xpath: .//*[@id='customerGrid']/table/tbody/tr/td[1]/select/option[3]]
+2017-09-26 22:59:34,318 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-26 22:59:34,394 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-26 22:59:34,608 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-26 22:59:34,630 - com.guru.commons.testscripts.TC017_CustomerDataInGridTest -INFO - ============Starting verifyCustmerdataInDataGridTest() =================
+2017-09-26 22:59:34,887 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-26 22:59:35,317 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-26 22:59:43,392 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-26 22:59:47,922 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - Extra popup is closed
+2017-09-26 22:59:52,822 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - view has selected [[FirefoxDriver: firefox on WINDOWS (56604399-023a-43ee-9149-26852b3c898e)] -> xpath: .//*[@id='customerGrid']/table/tbody/tr/td[1]/select/option[3]]
+2017-09-26 23:00:47,970 - com.guru.commons.testscripts.TC017_CustomerDataInGridTest -INFO - ============Finished verifyCustmerdataInDataGridTest() =================
+2017-09-26 23:03:39,036 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - url has lauching..
+2017-09-26 23:03:39,094 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Now Browser is maximize...
+2017-09-26 23:03:39,118 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - Page loading.....
+2017-09-26 23:03:39,130 - com.guru.commons.testscripts.TC017_CustomerDataInGridTest -INFO - ============Starting verifyCustmerdataInDataGridTest() =================
+2017-09-26 23:03:39,350 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps userName is entered
+2017-09-26 23:03:39,600 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - backend apps passWord is entered
+2017-09-26 23:03:44,973 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - login is btn is clicked
+2017-09-26 23:03:49,247 - com.guru.Ecommerce.Automation.pageobjects.Login.BackendLogin -INFO - Extra popup is closed
+2017-09-26 23:03:54,114 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - view has selected [[FirefoxDriver: firefox on WINDOWS (1852771f-0bbc-42a6-a7b8-567e1e5993ac)] -> xpath: .//*[@id='customerGrid']/table/tbody/tr/td[1]/select/option[3]]
+2017-09-26 23:03:55,258 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 1 customer data
+2017-09-26 23:03:56,341 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 2 customer data
+2017-09-26 23:03:57,425 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 3 customer data
+2017-09-26 23:03:58,615 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 4 customer data
+2017-09-26 23:03:59,722 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 5 customer data
+2017-09-26 23:04:00,817 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 6 customer data
+2017-09-26 23:04:01,940 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 7 customer data
+2017-09-26 23:04:03,066 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 8 customer data
+2017-09-26 23:04:04,147 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 9 customer data
+2017-09-26 23:04:05,243 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 10 customer data
+2017-09-26 23:04:06,342 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 11 customer data
+2017-09-26 23:04:07,439 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 12 customer data
+2017-09-26 23:04:08,519 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 13 customer data
+2017-09-26 23:04:09,612 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 14 customer data
+2017-09-26 23:04:10,719 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 15 customer data
+2017-09-26 23:04:11,818 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 16 customer data
+2017-09-26 23:04:12,992 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 17 customer data
+2017-09-26 23:04:14,076 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 18 customer data
+2017-09-26 23:04:15,145 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 19 customer data
+2017-09-26 23:04:16,225 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 20 customer data
+2017-09-26 23:04:17,311 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 21 customer data
+2017-09-26 23:04:18,394 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 22 customer data
+2017-09-26 23:04:19,489 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 23 customer data
+2017-09-26 23:04:20,584 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 24 customer data
+2017-09-26 23:04:21,689 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 25 customer data
+2017-09-26 23:04:22,772 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 26 customer data
+2017-09-26 23:04:23,868 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 27 customer data
+2017-09-26 23:04:24,976 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 28 customer data
+2017-09-26 23:04:26,088 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 29 customer data
+2017-09-26 23:04:27,207 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 30 customer data
+2017-09-26 23:04:28,288 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 31 customer data
+2017-09-26 23:04:29,369 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 32 customer data
+2017-09-26 23:04:30,454 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 33 customer data
+2017-09-26 23:04:31,551 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 34 customer data
+2017-09-26 23:04:32,663 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 35 customer data
+2017-09-26 23:04:33,761 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 36 customer data
+2017-09-26 23:04:34,858 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 37 customer data
+2017-09-26 23:04:35,959 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 38 customer data
+2017-09-26 23:04:37,084 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 39 customer data
+2017-09-26 23:04:38,181 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 40 customer data
+2017-09-26 23:04:39,279 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 41 customer data
+2017-09-26 23:04:40,360 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 42 customer data
+2017-09-26 23:04:41,460 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 43 customer data
+2017-09-26 23:04:42,541 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 44 customer data
+2017-09-26 23:04:43,624 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 45 customer data
+2017-09-26 23:04:44,739 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 46 customer data
+2017-09-26 23:04:45,820 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 47 customer data
+2017-09-26 23:04:46,921 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 48 customer data
+2017-09-26 23:04:48,020 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 49 customer data
+2017-09-26 23:04:49,116 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - reading 50 customer data
+2017-09-26 23:04:49,116 - com.guru.Ecommerce.Automation.testbase.TestBase -INFO - total customer data in dataGrid is 50
+2017-09-26 23:04:49,131 - com.guru.commons.testscripts.TC017_CustomerDataInGridTest -INFO - ============Finished verifyCustmerdataInDataGridTest() =================
