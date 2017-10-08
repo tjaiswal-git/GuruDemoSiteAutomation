@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Suite">
+	<test name="testing">
+		<groups>
+
+			<run>
+				<include name="Regression">
+				</include>
+				<exclude name="Smoke Test"></exclude>
+			</run>
+		</groups>
+
+		<classes>
+
+			<class name="GuruAutomation.GuruDemoSiteAutomation.groupExamples" />
+
+		</classes>
+	</test>
+
+</suite>

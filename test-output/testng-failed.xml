@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest">
+      <class name="com.guru.commons.testscripts.TC017_CustomerDataInGridTest">
         <methods>
-          <include name="verifySearchPrdInPrice"/>
           <include name="setUp"/>
-          <include name="tearDown"/>
+          <include name="verifyCustmerdataInDataGridTest"/>
         </methods>
-      </class> <!-- com.guru.commons.testscripts.TC013_SearchProductInPriceRangeTest -->
+      </class> <!-- com.guru.commons.testscripts.TC017_CustomerDataInGridTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

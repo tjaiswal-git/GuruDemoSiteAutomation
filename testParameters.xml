@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parameterzition Test Suite">
+	<test name="Testing parameterzation">
+		<parameter name="browser" value="firefox"></parameter>
+		<parameter name="username" value="testUserByTarun"></parameter>
+		<parameter name="password" value="testPassword****"></parameter>
+		<classes>
+			<class name="GuruAutomation.GuruDemoSiteAutomation.TestParameters"></class>
+		</classes>
+	</test>
+
+
+</suite>
