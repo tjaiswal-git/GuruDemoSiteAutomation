@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.guru.commons.testscripts.TC017_CustomerDataInGridTest">
+      <class name="GuruAutomation.GuruDemoSiteAutomation.dynamic_table">
         <methods>
-          <include name="setUp"/>
-          <include name="verifyCustmerdataInDataGridTest"/>
+          <include name="setup"/>
+          <include name="Handle_Dynamic_Webtable"/>
         </methods>
-      </class> <!-- com.guru.commons.testscripts.TC017_CustomerDataInGridTest -->
+      </class> <!-- GuruAutomation.GuruDemoSiteAutomation.dynamic_table -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
