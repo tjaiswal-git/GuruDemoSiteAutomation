@@ -1,4 +1,4 @@
-package GuruAutomation.GuruDemoSiteAutomation;
+package GuruAutomation.GuruDemoSiteAutomation.example;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -7,13 +7,17 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class dynamic_table {
+import com.guru.Ecommerce.Automation.testbase.TestBase;
+
+public class dynamic_table extends TestBase {
  WebDriver driver = null;
 
  @BeforeTest
@@ -36,7 +40,8 @@ public class dynamic_table {
   //driver = new FirefoxDriver();
   driver.manage().window().maximize();
   driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-  driver.get("http://only-testing-blog.blogspot.in/2014/05/form.html");
+  //driver.get("http://only-testing-blog.blogspot.in/2014/05/form.html");
+  driver.get("file:///C:/Users/tjaiswal/Desktop/htmlfiles/textBox.html");
  }
 
  @AfterTest
@@ -45,8 +50,17 @@ public class dynamic_table {
  }
 
  @Test
- public void Handle_Dynamic_Webtable() {
+ public void Handle_Dynamic_Webtable() throws InterruptedException {
  
+	//driver.findElement(By.id("text1")).sendKeys("tarunjaiswal5487456215485488");
+	boolean status = preValidateSendKeysLen(driver.findElement(By.id("text1")), "tarunjaiswal5487456215485488");
+	Assert.assertTrue(status);
+//	String ele = driver.findElement(By.id("text1")).getAttribute("maxlength"); 
+	// System.out.println(ele);
+	/*
+	 Actions action=new Actions(driver);
+	action.contextClick().build().perform();
+	Thread.sleep(3000); 
   //To locate table.
   WebElement mytable = driver.findElement(By.xpath(".//*[@id='post-body-8228718889842861683']/div[1]/table/tbody"));
   //To locate rows of table.
@@ -72,5 +86,5 @@ public class dynamic_table {
    }
    System.out.println("--------------------------------------------------");
   }  
- }
-}
+ }  */
+}}

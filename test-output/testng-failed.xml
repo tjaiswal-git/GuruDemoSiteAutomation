@@ -5,6 +5,7 @@
     <classes>
       <class name="GuruAutomation.GuruDemoSiteAutomation.dynamic_table">
         <methods>
+          <include name="tearDown"/>
           <include name="setup"/>
           <include name="Handle_Dynamic_Webtable"/>
         </methods>

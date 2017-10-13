@@ -30,9 +30,11 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Reporter;
 
+import com.guru.Ecommerce.Automation.utility.SendKeysMaxLengthBoundException;
+
 /**
  * This is parent class of all framework setup operation
- * it conatins properties file,excel reader,waiting statement,screenShoot etc.
+ * it contains properties file,excel reader,waiting statement,screenShoot etc.
  * @author tjaiswal
  *
  */
@@ -240,7 +242,67 @@ public class TestBase
 			return foo;
 	}
 	
+	/**
+	 * This method is used to verify that sendkeys text should have in under maxlength.
+	 * @param element
+	 * @param text
+	 * @return booleanStatus
+	 */
 	
+	public boolean preValidateSendKeysLen(WebElement element,String text)
+	{
+		boolean type=false;
+		int sendKyesTextLen=text.length();
+	    if(element.getAttribute("maxlength").equals("null"))
+	    {
+	    	element.sendKeys(text);
+	    	logger.info("SendKeys text has passed and this element doesn't have maxlegth attribute");
+	    	type=true;
+	    }
+	    
+	    else if(element.getAttribute("maxlength")!=null)
+	    {
+	    	String textLen=element.getAttribute("maxlength");
+	    	int ActualValue=Integer.parseInt(textLen);
+	    	if(text.length()<=ActualValue)
+	    	{
+	    		element.sendKeys(text);
+	    		logger.info("SendKeys text has passed it has valid under maxlength");
+	    		type=true;
+	    	}
+	    	else
+	    	{
+	    		try
+	    		{
+					throw new SendKeysMaxLengthBoundException("SendkeysText Has Cross Words Limit");
+				}
+	    		catch (SendKeysMaxLengthBoundException e)
+	    		{
+					
+					e.printStackTrace();
+					System.out.println(e.getMessage());
+				}
+	    	}
+	    	
+	    }
+	    
+	    else
+	    {
+	    
+	    try 
+	    {
+			throw new SendKeysMaxLengthBoundException("SendkeysText Has Cross Words Limit");
+		}
+	    catch (SendKeysMaxLengthBoundException e)
+	    {
+			
+			e.printStackTrace();
+			System.out.println(e.getMessage());
+			type=false;
+		} 	
+	    }
+		return type;
+	}
 	
 	
 	

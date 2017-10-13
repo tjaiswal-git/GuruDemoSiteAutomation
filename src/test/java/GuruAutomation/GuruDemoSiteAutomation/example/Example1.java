@@ -1,4 +1,4 @@
-package GuruAutomation.GuruDemoSiteAutomation;
+package GuruAutomation.GuruDemoSiteAutomation.example;
 
 class CustomException extends Exception
 {

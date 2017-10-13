@@ -1,4 +1,4 @@
-package GuruAutomation.GuruDemoSiteAutomation;
+package GuruAutomation.GuruDemoSiteAutomation.example;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

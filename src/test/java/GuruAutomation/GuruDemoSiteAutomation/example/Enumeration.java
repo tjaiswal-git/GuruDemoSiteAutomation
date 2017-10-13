@@ -1,4 +1,4 @@
-package GuruAutomation.GuruDemoSiteAutomation;
+package GuruAutomation.GuruDemoSiteAutomation.example;
 
 import java.util.Vector;
 

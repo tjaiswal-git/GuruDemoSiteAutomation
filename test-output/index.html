@@ -48,7 +48,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
-                    <span>C:\Users\tjaiswal\AppData\Local\Temp\testng-eclipse-301274295\testng-customsuite.xml</span>
+                    <span>C:\Users\tjaiswal\AppData\Local\Temp\testng-eclipse-227750790\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -90,7 +90,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,   1 passed</span>
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -101,7 +101,12 @@
                     <div class="method-list-content passed suite-Default_suite">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="GuruAutomation.GuruDemoSiteAutomation.dynamic_table" hash-for-method="Handle_Dynamic_Webtable">Handle_Dynamic_Webtable</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="GuruAutomation.GuruDemoSiteAutomation.example.ClassOne" hash-for-method="firstTestCase">firstTestCase</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="GuruAutomation.GuruDemoSiteAutomation.example.ClassOne" hash-for-method="secondTestCase">secondTestCase</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Default_suite -->
@@ -119,14 +124,21 @@
           <div class="suite-Default_suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">GuruAutomation.GuruDemoSiteAutomation.dynamic_table</span>
+              <span class="class-name">GuruAutomation.GuruDemoSiteAutomation.example.ClassOne</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="Handle_Dynamic_Webtable">
-                  </a> <!-- Handle_Dynamic_Webtable -->
-                  <span class="method-name">Handle_Dynamic_Webtable</span>
+                  <a name="firstTestCase">
+                  </a> <!-- firstTestCase -->
+                  <span class="method-name">firstTestCase</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="secondTestCase">
+                  </a> <!-- secondTestCase -->
+                  <span class="method-name">secondTestCase</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -134,7 +146,7 @@
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\tjaiswal\AppData\Local\Temp\testng-eclipse-301274295\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\tjaiswal\AppData\Local\Temp\testng-eclipse-227750790\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -143,7 +155,7 @@
 &lt;suite name=&quot;Default suite&quot;&gt;
   &lt;test verbose=&quot;2&quot; name=&quot;Default test&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;GuruAutomation.GuruDemoSiteAutomation.dynamic_table&quot;/&gt;
+      &lt;class name=&quot;GuruAutomation.GuruDemoSiteAutomation.example.ClassOne&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Default test --&gt;
 &lt;/suite&gt; &lt;!-- Default suite --&gt;
@@ -183,16 +195,20 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'Handle_Dynamic_Webtable')
-data.setCell(0, 2, 'GuruAutomation.GuruDemoSiteAutomation.dynamic_table')
-data.setCell(0, 3, 927);
+data.setCell(0, 1, 'firstTestCase')
+data.setCell(0, 2, 'GuruAutomation.GuruDemoSiteAutomation.example.ClassOne')
+data.setCell(0, 3, 12);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'secondTestCase')
+data.setCell(1, 2, 'GuruAutomation.GuruDemoSiteAutomation.example.ClassOne')
+data.setCell(1, 3, 1);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 927 ms</span>
+              <span class="suite-total-time">Total running time: 13 ms</span>
               <div id="times-div-Default_suite">
               </div> <!-- times-div-Default_suite -->
             </div> <!-- times-div -->
@@ -218,19 +234,15 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">GuruAutomation.GuruDemoSiteAutomation.dynamic_table</div> <!-- chronological-class-name -->
-              <div class="configuration-test before">
-                <span class="method-name">setup</span>
-                <span class="method-start">0 ms</span>
-              </div> <!-- configuration-test before -->
+              <div class="chronological-class-name">GuruAutomation.GuruDemoSiteAutomation.example.ClassOne</div> <!-- chronological-class-name -->
               <div class="test-method">
-                <span class="method-name">Handle_Dynamic_Webtable</span>
-                <span class="method-start">18069 ms</span>
+                <span class="method-name">firstTestCase</span>
+                <span class="method-start">0 ms</span>
               </div> <!-- test-method -->
-              <div class="configuration-test after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">18998 ms</span>
-              </div> <!-- configuration-test after -->
+              <div class="test-method">
+                <span class="method-name">secondTestCase</span>
+                <span class="method-start">15 ms</span>
+              </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

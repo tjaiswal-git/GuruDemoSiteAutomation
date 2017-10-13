@@ -1,4 +1,4 @@
-package GuruAutomation.GuruDemoSiteAutomation;
+package GuruAutomation.GuruDemoSiteAutomation.example;
 
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
