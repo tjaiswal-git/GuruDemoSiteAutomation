@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/catalogstype"
+	xmlns:tns="http://www.example.org/catalogstype" elementFormDefault="qualified">
+
+	<element name="globalcatalogs" type="tns:catalogtype"></element>
+	<complexType name="catalogtype">
+		<sequence>
+			<element name="book" type="tns:booktype" maxOccurs="3"
+				minOccurs="1"></element>
+		</sequence>
+
+	</complexType>
+
+	<complexType name="booktype">
+
+		<sequence>
+			<element name="author" type="string"></element>
+			<element name="title" type="tns:myTitle"></element>
+			<element name="genre" type="string"></element>
+			<element name="price" type="tns:Myprice"></element>
+			<element name="publish_date" type="date"></element>
+			<element name="description" type="string"></element>
+		</sequence>
+		<attribute name="id" type="ID" use="required"></attribute>
+
+	</complexType>
+
+	<simpleType name="Myprice">
+		<restriction base="double">
+			<minInclusive value="5.0"></minInclusive>
+			<maxExclusive value="50.5"></maxExclusive>
+		</restriction>
+
+	</simpleType>
+
+	<simpleType name="myTitle">
+		<restriction base="string">
+			<minLength value="5"></minLength>
+			<maxLength value="12"></maxLength>
+		</restriction>
+	</simpleType>
+
+</schema>

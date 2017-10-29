@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:globalcatalogs xmlns:tns="http://www.example.org/catalogstype" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.example.org/catalogstype catalogstype.xsd ">
+  <tns:book id="A1">
+    <tns:author>"Tarun Jaiswal"</tns:author>
+    <tns:title>"2 states"</tns:title>
+    <tns:genre>"Mix Love"</tns:genre>
+    <tns:price>45.5</tns:price>
+    <tns:publish_date>2001-01-01</tns:publish_date>
+    <tns:description>"This is a one of good novel in the world"</tns:description>
+  </tns:book>
+  
+    <tns:book id="A2">
+    <tns:author>"Manoj"</tns:author>
+    <tns:title>"3 states"</tns:title>
+    <tns:genre>"Mix Love"</tns:genre>
+    <tns:price>48.5</tns:price>
+    <tns:publish_date>2001-01-01</tns:publish_date>
+    <tns:description>"This is a one of good novel in the world"</tns:description>
+  </tns:book>
+</tns:globalcatalogs>
