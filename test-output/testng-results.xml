@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31" started-at="2017-10-11T15:20:14Z" finished-at="2017-10-11T15:20:14Z">
+  <suite name="Preserve order test runs" duration-ms="52" started-at="2017-10-29T12:48:04Z" finished-at="2017-10-29T12:48:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31" started-at="2017-10-11T15:20:14Z" finished-at="2017-10-11T15:20:14Z">
-      <class name="GuruAutomation.GuruDemoSiteAutomation.example.ClassOne">
-        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:GuruAutomation.GuruDemoSiteAutomation.example.ClassOne@2a5ca609]" name="firstTestCase" duration-ms="12" started-at="2017-10-11T20:50:14Z" finished-at="2017-10-11T20:50:14Z">
+    <test name="Regression 1" duration-ms="52" started-at="2017-10-29T12:48:04Z" finished-at="2017-10-29T12:48:04Z">
+      <class name="GuruAutomation.GuruDemoSiteAutomation.example.ClassThree">
+        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:GuruAutomation.GuruDemoSiteAutomation.example.ClassThree@8bd1b6a]" name="firstTestCase" duration-ms="1" started-at="2017-10-29T18:18:04Z" finished-at="2017-10-29T18:18:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTestCase -->
-        <test-method status="PASS" signature="secondTestCase()[pri:0, instance:GuruAutomation.GuruDemoSiteAutomation.example.ClassOne@2a5ca609]" name="secondTestCase" duration-ms="1" started-at="2017-10-11T20:50:14Z" finished-at="2017-10-11T20:50:14Z">
+        <test-method status="PASS" signature="secondTestCase()[pri:0, instance:GuruAutomation.GuruDemoSiteAutomation.example.ClassThree@8bd1b6a]" name="secondTestCase" duration-ms="2" started-at="2017-10-29T18:18:04Z" finished-at="2017-10-29T18:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestCase -->
+      </class> <!-- GuruAutomation.GuruDemoSiteAutomation.example.ClassThree -->
+      <class name="GuruAutomation.GuruDemoSiteAutomation.example.ClassOne">
+        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:GuruAutomation.GuruDemoSiteAutomation.example.ClassOne@18be83e4]" name="firstTestCase" duration-ms="14" started-at="2017-10-29T18:18:04Z" finished-at="2017-10-29T18:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCase -->
+        <test-method status="PASS" signature="secondTestCase()[pri:0, instance:GuruAutomation.GuruDemoSiteAutomation.example.ClassOne@18be83e4]" name="secondTestCase" duration-ms="2" started-at="2017-10-29T18:18:04Z" finished-at="2017-10-29T18:18:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- secondTestCase -->
       </class> <!-- GuruAutomation.GuruDemoSiteAutomation.example.ClassOne -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="GuruAutomation.GuruDemoSiteAutomation.example.ClassTwo">
+        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:GuruAutomation.GuruDemoSiteAutomation.example.ClassTwo@68be2bc2]" name="firstTestCase" duration-ms="2" started-at="2017-10-29T18:18:04Z" finished-at="2017-10-29T18:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCase -->
+        <test-method status="PASS" signature="secondTestCase()[pri:0, instance:GuruAutomation.GuruDemoSiteAutomation.example.ClassTwo@68be2bc2]" name="secondTestCase" duration-ms="2" started-at="2017-10-29T18:18:04Z" finished-at="2017-10-29T18:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestCase -->
+      </class> <!-- GuruAutomation.GuruDemoSiteAutomation.example.ClassTwo -->
+    </test> <!-- Regression 1 -->
+  </suite> <!-- Preserve order test runs -->
 </testng-results>

@@ -2,7 +2,7 @@
 <suite name="Parallel test suite" parallel="methods" thread-count="2">
   <test name="Regression 1">
     <classes>
-      <class name="GuruAutomation.GuruDemoSiteAutomation.ParrelTesting"/>
+      <class name="GuruAutomation.GuruDemoSiteAutomation.example.ParrelTesting"/>
     </classes>
   </test>
 </suite>

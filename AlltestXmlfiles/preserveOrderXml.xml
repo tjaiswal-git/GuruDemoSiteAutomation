@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Preserve order test runs">
+  <test name="Regression 1" preserve-order="true">
+    <classes>
+      <class name="GuruAutomation.GuruDemoSiteAutomation.example.ClassOne"/>
+      <class name="GuruAutomation.GuruDemoSiteAutomation.example.ClassTwo"/>
+      <class name="GuruAutomation.GuruDemoSiteAutomation.example.ClassThree"/>
+    </classes>
+  </test>
+</suite>
