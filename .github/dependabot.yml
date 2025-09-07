@@ -1,0 +1,9 @@
+version: 2
+updates:
+  - package-ecosystem: "maven"
+    directory: "/" # Location of your pom.xml
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 5
+    allow:
+      - dependency-type: "all"
